@@ -5,7 +5,9 @@ Includes Degraded-Mode health reporting and Pipeline Board API.
 """
 
 from fastapi import FastAPI
+from fastapi.responses import HTMLResponse
 from fastapi.middleware.cors import CORSMiddleware
+from pathlib import Path
 from apps.api.routers import auth, jobs, proposals, approvals, messages, runs, analytics, settings
 from agent.mcp_client import mcp_manager
 
@@ -33,6 +35,13 @@ app.include_router(messages.router)
 app.include_router(runs.router)
 app.include_router(analytics.router)
 app.include_router(settings.router)
+
+@app.get("/", response_class=HTMLResponse)
+def serve_ui():
+    html_path = Path("apps/web/index.html")
+    if html_path.exists():
+        return html_path.read_text(encoding="utf-8")
+    return "<h1>GigBid API is running. UI file not found.</h1>"
 
 @app.get("/health")
 def health():
