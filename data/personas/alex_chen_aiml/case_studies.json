@@ -1,0 +1,342 @@
+[
+  {
+    "id": "CS-ALEX-001",
+    "title": "Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base",
+    "client_industry": "Fintech",
+    "skills": [
+      "PEFT",
+      "HuggingFace",
+      "Python",
+      "FastAPI",
+      "Ollama"
+    ],
+    "timeline": "3 weeks",
+    "budget_usd": 2343,
+    "summary": "Designed and delivered Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-01-31"
+  },
+  {
+    "id": "CS-ALEX-002",
+    "title": "Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech",
+    "client_industry": "HealthTech",
+    "skills": [
+      "HuggingFace",
+      "Sentence-Transformers",
+      "NumPy",
+      "TensorFlow",
+      "RAG Architecture"
+    ],
+    "timeline": "5 weeks",
+    "budget_usd": 1460,
+    "summary": "Designed and delivered Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-03-02"
+  },
+  {
+    "id": "CS-ALEX-003",
+    "title": "Customer Churn Prediction and Explainable ML Classification for E-Commerce",
+    "client_industry": "E-Commerce",
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "vLLM",
+      "Ollama",
+      "Pandas"
+    ],
+    "timeline": "6 weeks",
+    "budget_usd": 1417,
+    "summary": "Designed and delivered Customer Churn Prediction and Explainable ML Classification for E-Commerce. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-04-01"
+  },
+  {
+    "id": "CS-ALEX-004",
+    "title": "Document Entity Extraction and Fine-Tuning with LoRA for EdTech",
+    "client_industry": "EdTech",
+    "skills": [
+      "NumPy",
+      "vLLM",
+      "BM25",
+      "PEFT",
+      "Docker"
+    ],
+    "timeline": "3 weeks",
+    "budget_usd": 4879,
+    "summary": "Designed and delivered Document Entity Extraction and Fine-Tuning with LoRA for EdTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-05-01"
+  },
+  {
+    "id": "CS-ALEX-005",
+    "title": "Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer",
+    "client_industry": "Logistics",
+    "skills": [
+      "RAG Architecture",
+      "FastAPI",
+      "Python",
+      "LangGraph",
+      "BM25"
+    ],
+    "timeline": "5 weeks",
+    "budget_usd": 3987,
+    "summary": "Designed and delivered Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-05-31"
+  },
+  {
+    "id": "CS-ALEX-006",
+    "title": "Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team",
+    "client_industry": "SaaS Enterprise",
+    "skills": [
+      "FastAPI",
+      "LangChain",
+      "vLLM",
+      "Pinecone",
+      "HuggingFace"
+    ],
+    "timeline": "2 weeks",
+    "budget_usd": 4312,
+    "summary": "Designed and delivered Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-06-30"
+  },
+  {
+    "id": "CS-ALEX-007",
+    "title": "Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client",
+    "client_industry": "Cybersecurity",
+    "skills": [
+      "HuggingFace",
+      "Qdrant",
+      "LoRA",
+      "FastAPI",
+      "PyTorch"
+    ],
+    "timeline": "5 weeks",
+    "budget_usd": 5592,
+    "summary": "Designed and delivered Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-07-30"
+  },
+  {
+    "id": "CS-ALEX-008",
+    "title": "Automated Content Tagging & Clustering Engine using Sentence-Transformers",
+    "client_industry": "LegalTech",
+    "skills": [
+      "HuggingFace",
+      "ChromaDB",
+      "TensorFlow",
+      "NumPy",
+      "Vector Databases"
+    ],
+    "timeline": "6 weeks",
+    "budget_usd": 4162,
+    "summary": "Designed and delivered Automated Content Tagging & Clustering Engine using Sentence-Transformers. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-08-29"
+  },
+  {
+    "id": "CS-ALEX-009",
+    "title": "Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate",
+    "client_industry": "Real Estate",
+    "skills": [
+      "RAG Architecture",
+      "vLLM",
+      "BM25",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "timeline": "3 weeks",
+    "budget_usd": 3570,
+    "summary": "Designed and delivered Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-09-28"
+  },
+  {
+    "id": "CS-ALEX-010",
+    "title": "Voice Agent & Whisper Transcription Pipeline with FastAPI for Media",
+    "client_industry": "Media",
+    "skills": [
+      "TensorFlow",
+      "Ollama",
+      "HuggingFace",
+      "ChromaDB",
+      "FastAPI"
+    ],
+    "timeline": "5 weeks",
+    "budget_usd": 6407,
+    "summary": "Designed and delivered Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-10-28"
+  },
+  {
+    "id": "CS-ALEX-011",
+    "title": "Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base",
+    "client_industry": "Fintech",
+    "skills": [
+      "Qdrant",
+      "LangGraph",
+      "vLLM",
+      "Sentence-Transformers",
+      "FastAPI"
+    ],
+    "timeline": "2 weeks",
+    "budget_usd": 6190,
+    "summary": "Designed and delivered Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-11-27"
+  },
+  {
+    "id": "CS-ALEX-012",
+    "title": "Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech",
+    "client_industry": "HealthTech",
+    "skills": [
+      "PEFT",
+      "LangGraph",
+      "NumPy",
+      "Ollama",
+      "MLflow"
+    ],
+    "timeline": "5 weeks",
+    "budget_usd": 3411,
+    "summary": "Designed and delivered Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-12-27"
+  },
+  {
+    "id": "CS-ALEX-013",
+    "title": "Customer Churn Prediction and Explainable ML Classification for E-Commerce",
+    "client_industry": "E-Commerce",
+    "skills": [
+      "PEFT",
+      "BM25",
+      "NumPy",
+      "Ollama",
+      "Sentence-Transformers"
+    ],
+    "timeline": "4 weeks",
+    "budget_usd": 1658,
+    "summary": "Designed and delivered Customer Churn Prediction and Explainable ML Classification for E-Commerce. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2026-01-26"
+  },
+  {
+    "id": "CS-ALEX-014",
+    "title": "Document Entity Extraction and Fine-Tuning with LoRA for EdTech",
+    "client_industry": "EdTech",
+    "skills": [
+      "Ollama",
+      "PyTorch",
+      "Pinecone",
+      "ChromaDB",
+      "FastAPI"
+    ],
+    "timeline": "2 weeks",
+    "budget_usd": 2928,
+    "summary": "Designed and delivered Document Entity Extraction and Fine-Tuning with LoRA for EdTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2026-02-25"
+  },
+  {
+    "id": "CS-ALEX-015",
+    "title": "Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer",
+    "client_industry": "Logistics",
+    "skills": [
+      "RAG Architecture",
+      "BM25",
+      "Pinecone",
+      "vLLM",
+      "PEFT"
+    ],
+    "timeline": "5 weeks",
+    "budget_usd": 4441,
+    "summary": "Designed and delivered Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2026-03-27"
+  },
+  {
+    "id": "CS-ALEX-016",
+    "title": "Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team",
+    "client_industry": "SaaS Enterprise",
+    "skills": [
+      "PEFT",
+      "MLflow",
+      "LangChain",
+      "FastAPI",
+      "Ollama"
+    ],
+    "timeline": "6 weeks",
+    "budget_usd": 5615,
+    "summary": "Designed and delivered Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2026-04-26"
+  },
+  {
+    "id": "CS-ALEX-017",
+    "title": "Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client",
+    "client_industry": "Cybersecurity",
+    "skills": [
+      "FastAPI",
+      "RAG Architecture",
+      "Docker",
+      "ChromaDB",
+      "Qdrant"
+    ],
+    "timeline": "3 weeks",
+    "budget_usd": 2333,
+    "summary": "Designed and delivered Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "CS-ALEX-018",
+    "title": "Automated Content Tagging & Clustering Engine using Sentence-Transformers",
+    "client_industry": "LegalTech",
+    "skills": [
+      "Pandas",
+      "scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "HuggingFace"
+    ],
+    "timeline": "3 weeks",
+    "budget_usd": 6340,
+    "summary": "Designed and delivered Automated Content Tagging & Clustering Engine using Sentence-Transformers. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2026-06-25"
+  },
+  {
+    "id": "CS-ALEX-019",
+    "title": "Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate",
+    "client_industry": "Real Estate",
+    "skills": [
+      "LangGraph",
+      "Sentence-Transformers",
+      "Docker",
+      "LoRA",
+      "TensorFlow"
+    ],
+    "timeline": "5 weeks",
+    "budget_usd": 4326,
+    "summary": "Designed and delivered Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2026-07-25"
+  },
+  {
+    "id": "CS-ALEX-020",
+    "title": "Voice Agent & Whisper Transcription Pipeline with FastAPI for Media",
+    "client_industry": "Media",
+    "skills": [
+      "LoRA",
+      "MLflow",
+      "Pandas",
+      "FastAPI",
+      "NumPy"
+    ],
+    "timeline": "2 weeks",
+    "budget_usd": 2138,
+    "summary": "Designed and delivered Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2026-08-24"
+  }
+]

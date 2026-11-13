@@ -1,0 +1,122 @@
+[
+  {
+    "review_id": "REV-MARC-001",
+    "client_name": "Client_1 (AU)",
+    "rating": 5.0,
+    "feedback": "Exceptional work! Marcus Vance understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Snowflake & dbt Enterprise Data Warehouse Modeling for Fintech",
+    "date": "2025-03-19"
+  },
+  {
+    "review_id": "REV-MARC-002",
+    "client_name": "Client_2 (DE)",
+    "rating": 4.9,
+    "feedback": "Exceptional work! Marcus Vance understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Executive PowerBI Revenue and Churn Intelligence Dashboard for HealthTech",
+    "date": "2025-04-06"
+  },
+  {
+    "review_id": "REV-MARC-003",
+    "client_name": "Client_3 (DE)",
+    "rating": 5.0,
+    "feedback": "Exceptional work! Marcus Vance understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Automated Financial Reconciliation & Cohort Retention Engine in Python",
+    "date": "2025-04-24"
+  },
+  {
+    "review_id": "REV-MARC-004",
+    "client_name": "Client_4 (DE)",
+    "rating": 5.0,
+    "feedback": "Exceptional work! Marcus Vance understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Tableau Customer Lifetime Value (LTV) Segmentation for EdTech Marketing",
+    "date": "2025-05-12"
+  },
+  {
+    "review_id": "REV-MARC-005",
+    "client_name": "Client_5 (CA)",
+    "rating": 5.0,
+    "feedback": "Exceptional work! Marcus Vance understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "PostgreSQL Query Optimization and Partitioning for 50M-row Logistics Database",
+    "date": "2025-05-30"
+  },
+  {
+    "review_id": "REV-MARC-006",
+    "client_name": "Client_6 (DE)",
+    "rating": 4.9,
+    "feedback": "Exceptional work! Marcus Vance understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Google BigQuery to Looker Real-Time BI Pipeline for SaaS Enterprise Leadership",
+    "date": "2025-06-17"
+  },
+  {
+    "review_id": "REV-MARC-007",
+    "client_name": "Client_7 (DE)",
+    "rating": 5.0,
+    "feedback": "Exceptional work! Marcus Vance understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Statistical A/B Test Evaluation Framework and Power Calculation Engine",
+    "date": "2025-07-05"
+  },
+  {
+    "review_id": "REV-MARC-008",
+    "client_name": "Client_8 (CA)",
+    "rating": 5.0,
+    "feedback": "Exceptional work! Marcus Vance understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Automated Daily KPI Slack Reporting Bot using Airflow and Python",
+    "date": "2025-07-23"
+  },
+  {
+    "review_id": "REV-MARC-009",
+    "client_name": "Client_9 (UK)",
+    "rating": 5.0,
+    "feedback": "Exceptional work! Marcus Vance understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Supply Chain Inventory Forecasting & Reorder Point Optimizer in SQL/Python",
+    "date": "2025-08-10"
+  },
+  {
+    "review_id": "REV-MARC-010",
+    "client_name": "Client_10 (UK)",
+    "rating": 5.0,
+    "feedback": "Exceptional work! Marcus Vance understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Customer Feedback Sentiment and Categorization Dashboard for Media",
+    "date": "2025-08-28"
+  },
+  {
+    "review_id": "REV-MARC-011",
+    "client_name": "Client_11 (CA)",
+    "rating": 5.0,
+    "feedback": "Exceptional work! Marcus Vance understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Snowflake & dbt Enterprise Data Warehouse Modeling for Fintech",
+    "date": "2025-09-15"
+  },
+  {
+    "review_id": "REV-MARC-012",
+    "client_name": "Client_12 (AU)",
+    "rating": 4.9,
+    "feedback": "Exceptional work! Marcus Vance understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Executive PowerBI Revenue and Churn Intelligence Dashboard for HealthTech",
+    "date": "2025-10-03"
+  },
+  {
+    "review_id": "REV-MARC-013",
+    "client_name": "Client_13 (CA)",
+    "rating": 4.8,
+    "feedback": "Exceptional work! Marcus Vance understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Automated Financial Reconciliation & Cohort Retention Engine in Python",
+    "date": "2025-10-21"
+  },
+  {
+    "review_id": "REV-MARC-014",
+    "client_name": "Client_14 (AU)",
+    "rating": 4.8,
+    "feedback": "Exceptional work! Marcus Vance understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Tableau Customer Lifetime Value (LTV) Segmentation for EdTech Marketing",
+    "date": "2025-11-08"
+  },
+  {
+    "review_id": "REV-MARC-015",
+    "client_name": "Client_15 (DE)",
+    "rating": 4.9,
+    "feedback": "Exceptional work! Marcus Vance understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "PostgreSQL Query Optimization and Partitioning for 50M-row Logistics Database",
+    "date": "2025-11-26"
+  }
+]

@@ -1,0 +1,2702 @@
+[
+  {
+    "proposal_id": "PROP-ALEX-001",
+    "job_title": "Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base",
+    "bid_amount": 2443.12,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-001"
+    ],
+    "skills": [
+      "PEFT",
+      "HuggingFace",
+      "Python",
+      "FastAPI",
+      "Ollama"
+    ],
+    "submitted_at": "2024-06-05",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. In a previous engagement with a Fintech client (CS-ALEX-001), I built a similar solution where we Designed and delivered Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-002",
+    "job_title": "Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech",
+    "bid_amount": 1305.39,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-002"
+    ],
+    "skills": [
+      "HuggingFace",
+      "Sentence-Transformers",
+      "NumPy",
+      "TensorFlow",
+      "RAG Architecture"
+    ],
+    "submitted_at": "2024-06-09",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. In a previous engagement with a HealthTech client (CS-ALEX-002), I built a similar solution where we Designed and delivered Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-003",
+    "job_title": "Customer Churn Prediction and Explainable ML Classification for E-Commerce",
+    "bid_amount": 1149.97,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-003"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "vLLM",
+      "Ollama",
+      "Pandas"
+    ],
+    "submitted_at": "2024-06-13",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Customer Churn Prediction and Explainable ML Classification for E-Commerce. In a previous engagement with a E-Commerce client (CS-ALEX-003), I built a similar solution where we Designed and delivered Customer Churn Prediction and Explainable ML Classification for E-Commerce. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-004",
+    "job_title": "Document Entity Extraction and Fine-Tuning with LoRA for EdTech",
+    "bid_amount": 718.81,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-004"
+    ],
+    "skills": [
+      "NumPy",
+      "vLLM",
+      "BM25",
+      "PEFT",
+      "Docker"
+    ],
+    "submitted_at": "2024-06-17",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Document Entity Extraction and Fine-Tuning with LoRA for EdTech. In a previous engagement with a EdTech client (CS-ALEX-004), I built a similar solution where we Designed and delivered Document Entity Extraction and Fine-Tuning with LoRA for EdTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-005",
+    "job_title": "Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer",
+    "bid_amount": 2365.6,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-005"
+    ],
+    "skills": [
+      "RAG Architecture",
+      "FastAPI",
+      "Python",
+      "LangGraph",
+      "BM25"
+    ],
+    "submitted_at": "2024-06-21",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. In a previous engagement with a Logistics client (CS-ALEX-005), I built a similar solution where we Designed and delivered Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-006",
+    "job_title": "Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team",
+    "bid_amount": 1763.12,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-006"
+    ],
+    "skills": [
+      "FastAPI",
+      "LangChain",
+      "vLLM",
+      "Pinecone",
+      "HuggingFace"
+    ],
+    "submitted_at": "2024-06-25",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. In a previous engagement with a SaaS Enterprise client (CS-ALEX-006), I built a similar solution where we Designed and delivered Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-007",
+    "job_title": "Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client",
+    "bid_amount": 3272.86,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-007"
+    ],
+    "skills": [
+      "HuggingFace",
+      "Qdrant",
+      "LoRA",
+      "FastAPI",
+      "PyTorch"
+    ],
+    "submitted_at": "2024-06-29",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. In a previous engagement with a Cybersecurity client (CS-ALEX-007), I built a similar solution where we Designed and delivered Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-008",
+    "job_title": "Automated Content Tagging & Clustering Engine using Sentence-Transformers",
+    "bid_amount": 3294.35,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-008"
+    ],
+    "skills": [
+      "HuggingFace",
+      "ChromaDB",
+      "TensorFlow",
+      "NumPy",
+      "Vector Databases"
+    ],
+    "submitted_at": "2024-07-03",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Automated Content Tagging & Clustering Engine using Sentence-Transformers. In a previous engagement with a LegalTech client (CS-ALEX-008), I built a similar solution where we Designed and delivered Automated Content Tagging & Clustering Engine using Sentence-Transformers. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-009",
+    "job_title": "Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate",
+    "bid_amount": 329.81,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-009"
+    ],
+    "skills": [
+      "RAG Architecture",
+      "vLLM",
+      "BM25",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "submitted_at": "2024-07-07",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. In a previous engagement with a Real Estate client (CS-ALEX-009), I built a similar solution where we Designed and delivered Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-010",
+    "job_title": "Voice Agent & Whisper Transcription Pipeline with FastAPI for Media",
+    "bid_amount": 2287.71,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-010"
+    ],
+    "skills": [
+      "TensorFlow",
+      "Ollama",
+      "HuggingFace",
+      "ChromaDB",
+      "FastAPI"
+    ],
+    "submitted_at": "2024-07-11",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. In a previous engagement with a Media client (CS-ALEX-010), I built a similar solution where we Designed and delivered Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-011",
+    "job_title": "Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base",
+    "bid_amount": 2101.58,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-011"
+    ],
+    "skills": [
+      "Qdrant",
+      "LangGraph",
+      "vLLM",
+      "Sentence-Transformers",
+      "FastAPI"
+    ],
+    "submitted_at": "2024-07-15",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. In a previous engagement with a Fintech client (CS-ALEX-011), I built a similar solution where we Designed and delivered Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-012",
+    "job_title": "Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech",
+    "bid_amount": 619.94,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-012"
+    ],
+    "skills": [
+      "PEFT",
+      "LangGraph",
+      "NumPy",
+      "Ollama",
+      "MLflow"
+    ],
+    "submitted_at": "2024-07-19",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. In a previous engagement with a HealthTech client (CS-ALEX-012), I built a similar solution where we Designed and delivered Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-013",
+    "job_title": "Customer Churn Prediction and Explainable ML Classification for E-Commerce",
+    "bid_amount": 2020.43,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-013"
+    ],
+    "skills": [
+      "PEFT",
+      "BM25",
+      "NumPy",
+      "Ollama",
+      "Sentence-Transformers"
+    ],
+    "submitted_at": "2024-07-23",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Customer Churn Prediction and Explainable ML Classification for E-Commerce. In a previous engagement with a E-Commerce client (CS-ALEX-013), I built a similar solution where we Designed and delivered Customer Churn Prediction and Explainable ML Classification for E-Commerce. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-014",
+    "job_title": "Document Entity Extraction and Fine-Tuning with LoRA for EdTech",
+    "bid_amount": 1918.83,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-014"
+    ],
+    "skills": [
+      "Ollama",
+      "PyTorch",
+      "Pinecone",
+      "ChromaDB",
+      "FastAPI"
+    ],
+    "submitted_at": "2024-07-27",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Document Entity Extraction and Fine-Tuning with LoRA for EdTech. In a previous engagement with a EdTech client (CS-ALEX-014), I built a similar solution where we Designed and delivered Document Entity Extraction and Fine-Tuning with LoRA for EdTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-015",
+    "job_title": "Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer",
+    "bid_amount": 723.86,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-015"
+    ],
+    "skills": [
+      "RAG Architecture",
+      "BM25",
+      "Pinecone",
+      "vLLM",
+      "PEFT"
+    ],
+    "submitted_at": "2024-07-31",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. In a previous engagement with a Logistics client (CS-ALEX-015), I built a similar solution where we Designed and delivered Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-016",
+    "job_title": "Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team",
+    "bid_amount": 1416.83,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-016"
+    ],
+    "skills": [
+      "PEFT",
+      "MLflow",
+      "LangChain",
+      "FastAPI",
+      "Ollama"
+    ],
+    "submitted_at": "2024-08-04",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. In a previous engagement with a SaaS Enterprise client (CS-ALEX-016), I built a similar solution where we Designed and delivered Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-017",
+    "job_title": "Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client",
+    "bid_amount": 520.13,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-017"
+    ],
+    "skills": [
+      "FastAPI",
+      "RAG Architecture",
+      "Docker",
+      "ChromaDB",
+      "Qdrant"
+    ],
+    "submitted_at": "2024-08-08",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. In a previous engagement with a Cybersecurity client (CS-ALEX-017), I built a similar solution where we Designed and delivered Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-018",
+    "job_title": "Automated Content Tagging & Clustering Engine using Sentence-Transformers",
+    "bid_amount": 1081.71,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-018"
+    ],
+    "skills": [
+      "Pandas",
+      "scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "HuggingFace"
+    ],
+    "submitted_at": "2024-08-12",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Automated Content Tagging & Clustering Engine using Sentence-Transformers. In a previous engagement with a LegalTech client (CS-ALEX-018), I built a similar solution where we Designed and delivered Automated Content Tagging & Clustering Engine using Sentence-Transformers. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-019",
+    "job_title": "Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate",
+    "bid_amount": 1211.96,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-019"
+    ],
+    "skills": [
+      "LangGraph",
+      "Sentence-Transformers",
+      "Docker",
+      "LoRA",
+      "TensorFlow"
+    ],
+    "submitted_at": "2024-08-16",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. In a previous engagement with a Real Estate client (CS-ALEX-019), I built a similar solution where we Designed and delivered Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-020",
+    "job_title": "Voice Agent & Whisper Transcription Pipeline with FastAPI for Media",
+    "bid_amount": 1702.19,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-020"
+    ],
+    "skills": [
+      "LoRA",
+      "MLflow",
+      "Pandas",
+      "FastAPI",
+      "NumPy"
+    ],
+    "submitted_at": "2024-08-20",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. In a previous engagement with a Media client (CS-ALEX-020), I built a similar solution where we Designed and delivered Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-021",
+    "job_title": "Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base",
+    "bid_amount": 2038.3,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-001"
+    ],
+    "skills": [
+      "PEFT",
+      "HuggingFace",
+      "Python",
+      "FastAPI",
+      "Ollama"
+    ],
+    "submitted_at": "2024-08-24",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. In a previous engagement with a Fintech client (CS-ALEX-001), I built a similar solution where we Designed and delivered Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-022",
+    "job_title": "Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech",
+    "bid_amount": 1268.05,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-002"
+    ],
+    "skills": [
+      "HuggingFace",
+      "Sentence-Transformers",
+      "NumPy",
+      "TensorFlow",
+      "RAG Architecture"
+    ],
+    "submitted_at": "2024-08-28",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. In a previous engagement with a HealthTech client (CS-ALEX-002), I built a similar solution where we Designed and delivered Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-023",
+    "job_title": "Customer Churn Prediction and Explainable ML Classification for E-Commerce",
+    "bid_amount": 3448.33,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-003"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "vLLM",
+      "Ollama",
+      "Pandas"
+    ],
+    "submitted_at": "2024-09-01",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Customer Churn Prediction and Explainable ML Classification for E-Commerce. In a previous engagement with a E-Commerce client (CS-ALEX-003), I built a similar solution where we Designed and delivered Customer Churn Prediction and Explainable ML Classification for E-Commerce. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-024",
+    "job_title": "Document Entity Extraction and Fine-Tuning with LoRA for EdTech",
+    "bid_amount": 2882.72,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-004"
+    ],
+    "skills": [
+      "NumPy",
+      "vLLM",
+      "BM25",
+      "PEFT",
+      "Docker"
+    ],
+    "submitted_at": "2024-09-05",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Document Entity Extraction and Fine-Tuning with LoRA for EdTech. In a previous engagement with a EdTech client (CS-ALEX-004), I built a similar solution where we Designed and delivered Document Entity Extraction and Fine-Tuning with LoRA for EdTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-025",
+    "job_title": "Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer",
+    "bid_amount": 1992.61,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-005"
+    ],
+    "skills": [
+      "RAG Architecture",
+      "FastAPI",
+      "Python",
+      "LangGraph",
+      "BM25"
+    ],
+    "submitted_at": "2024-09-09",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. In a previous engagement with a Logistics client (CS-ALEX-005), I built a similar solution where we Designed and delivered Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-026",
+    "job_title": "Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team",
+    "bid_amount": 2437.16,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-006"
+    ],
+    "skills": [
+      "FastAPI",
+      "LangChain",
+      "vLLM",
+      "Pinecone",
+      "HuggingFace"
+    ],
+    "submitted_at": "2024-09-13",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. In a previous engagement with a SaaS Enterprise client (CS-ALEX-006), I built a similar solution where we Designed and delivered Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-027",
+    "job_title": "Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client",
+    "bid_amount": 2074.73,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-007"
+    ],
+    "skills": [
+      "HuggingFace",
+      "Qdrant",
+      "LoRA",
+      "FastAPI",
+      "PyTorch"
+    ],
+    "submitted_at": "2024-09-17",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. In a previous engagement with a Cybersecurity client (CS-ALEX-007), I built a similar solution where we Designed and delivered Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-028",
+    "job_title": "Automated Content Tagging & Clustering Engine using Sentence-Transformers",
+    "bid_amount": 3281.62,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-008"
+    ],
+    "skills": [
+      "HuggingFace",
+      "ChromaDB",
+      "TensorFlow",
+      "NumPy",
+      "Vector Databases"
+    ],
+    "submitted_at": "2024-09-21",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Automated Content Tagging & Clustering Engine using Sentence-Transformers. In a previous engagement with a LegalTech client (CS-ALEX-008), I built a similar solution where we Designed and delivered Automated Content Tagging & Clustering Engine using Sentence-Transformers. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-029",
+    "job_title": "Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate",
+    "bid_amount": 631.48,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-009"
+    ],
+    "skills": [
+      "RAG Architecture",
+      "vLLM",
+      "BM25",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "submitted_at": "2024-09-25",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. In a previous engagement with a Real Estate client (CS-ALEX-009), I built a similar solution where we Designed and delivered Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-030",
+    "job_title": "Voice Agent & Whisper Transcription Pipeline with FastAPI for Media",
+    "bid_amount": 3110.01,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-010"
+    ],
+    "skills": [
+      "TensorFlow",
+      "Ollama",
+      "HuggingFace",
+      "ChromaDB",
+      "FastAPI"
+    ],
+    "submitted_at": "2024-09-29",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. In a previous engagement with a Media client (CS-ALEX-010), I built a similar solution where we Designed and delivered Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-031",
+    "job_title": "Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base",
+    "bid_amount": 1146.29,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-011"
+    ],
+    "skills": [
+      "Qdrant",
+      "LangGraph",
+      "vLLM",
+      "Sentence-Transformers",
+      "FastAPI"
+    ],
+    "submitted_at": "2024-10-03",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. In a previous engagement with a Fintech client (CS-ALEX-011), I built a similar solution where we Designed and delivered Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-032",
+    "job_title": "Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech",
+    "bid_amount": 3147.08,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-012"
+    ],
+    "skills": [
+      "PEFT",
+      "LangGraph",
+      "NumPy",
+      "Ollama",
+      "MLflow"
+    ],
+    "submitted_at": "2024-10-07",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. In a previous engagement with a HealthTech client (CS-ALEX-012), I built a similar solution where we Designed and delivered Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-033",
+    "job_title": "Customer Churn Prediction and Explainable ML Classification for E-Commerce",
+    "bid_amount": 2675.73,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-013"
+    ],
+    "skills": [
+      "PEFT",
+      "BM25",
+      "NumPy",
+      "Ollama",
+      "Sentence-Transformers"
+    ],
+    "submitted_at": "2024-10-11",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Customer Churn Prediction and Explainable ML Classification for E-Commerce. In a previous engagement with a E-Commerce client (CS-ALEX-013), I built a similar solution where we Designed and delivered Customer Churn Prediction and Explainable ML Classification for E-Commerce. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-034",
+    "job_title": "Document Entity Extraction and Fine-Tuning with LoRA for EdTech",
+    "bid_amount": 797.43,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-014"
+    ],
+    "skills": [
+      "Ollama",
+      "PyTorch",
+      "Pinecone",
+      "ChromaDB",
+      "FastAPI"
+    ],
+    "submitted_at": "2024-10-15",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Document Entity Extraction and Fine-Tuning with LoRA for EdTech. In a previous engagement with a EdTech client (CS-ALEX-014), I built a similar solution where we Designed and delivered Document Entity Extraction and Fine-Tuning with LoRA for EdTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-035",
+    "job_title": "Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer",
+    "bid_amount": 1201.62,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-015"
+    ],
+    "skills": [
+      "RAG Architecture",
+      "BM25",
+      "Pinecone",
+      "vLLM",
+      "PEFT"
+    ],
+    "submitted_at": "2024-10-19",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. In a previous engagement with a Logistics client (CS-ALEX-015), I built a similar solution where we Designed and delivered Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-036",
+    "job_title": "Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team",
+    "bid_amount": 974.01,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-016"
+    ],
+    "skills": [
+      "PEFT",
+      "MLflow",
+      "LangChain",
+      "FastAPI",
+      "Ollama"
+    ],
+    "submitted_at": "2024-10-23",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. In a previous engagement with a SaaS Enterprise client (CS-ALEX-016), I built a similar solution where we Designed and delivered Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-037",
+    "job_title": "Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client",
+    "bid_amount": 1397.22,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-017"
+    ],
+    "skills": [
+      "FastAPI",
+      "RAG Architecture",
+      "Docker",
+      "ChromaDB",
+      "Qdrant"
+    ],
+    "submitted_at": "2024-10-27",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. In a previous engagement with a Cybersecurity client (CS-ALEX-017), I built a similar solution where we Designed and delivered Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-038",
+    "job_title": "Automated Content Tagging & Clustering Engine using Sentence-Transformers",
+    "bid_amount": 2499.99,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-018"
+    ],
+    "skills": [
+      "Pandas",
+      "scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "HuggingFace"
+    ],
+    "submitted_at": "2024-10-31",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Automated Content Tagging & Clustering Engine using Sentence-Transformers. In a previous engagement with a LegalTech client (CS-ALEX-018), I built a similar solution where we Designed and delivered Automated Content Tagging & Clustering Engine using Sentence-Transformers. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-039",
+    "job_title": "Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate",
+    "bid_amount": 3029.32,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-019"
+    ],
+    "skills": [
+      "LangGraph",
+      "Sentence-Transformers",
+      "Docker",
+      "LoRA",
+      "TensorFlow"
+    ],
+    "submitted_at": "2024-11-04",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. In a previous engagement with a Real Estate client (CS-ALEX-019), I built a similar solution where we Designed and delivered Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-040",
+    "job_title": "Voice Agent & Whisper Transcription Pipeline with FastAPI for Media",
+    "bid_amount": 1917.31,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-020"
+    ],
+    "skills": [
+      "LoRA",
+      "MLflow",
+      "Pandas",
+      "FastAPI",
+      "NumPy"
+    ],
+    "submitted_at": "2024-11-08",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. In a previous engagement with a Media client (CS-ALEX-020), I built a similar solution where we Designed and delivered Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-041",
+    "job_title": "Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base",
+    "bid_amount": 1103.59,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-001"
+    ],
+    "skills": [
+      "PEFT",
+      "HuggingFace",
+      "Python",
+      "FastAPI",
+      "Ollama"
+    ],
+    "submitted_at": "2024-11-12",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. In a previous engagement with a Fintech client (CS-ALEX-001), I built a similar solution where we Designed and delivered Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-042",
+    "job_title": "Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech",
+    "bid_amount": 3206.11,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-002"
+    ],
+    "skills": [
+      "HuggingFace",
+      "Sentence-Transformers",
+      "NumPy",
+      "TensorFlow",
+      "RAG Architecture"
+    ],
+    "submitted_at": "2024-11-16",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. In a previous engagement with a HealthTech client (CS-ALEX-002), I built a similar solution where we Designed and delivered Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-043",
+    "job_title": "Customer Churn Prediction and Explainable ML Classification for E-Commerce",
+    "bid_amount": 462.56,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-003"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "vLLM",
+      "Ollama",
+      "Pandas"
+    ],
+    "submitted_at": "2024-11-20",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Customer Churn Prediction and Explainable ML Classification for E-Commerce. In a previous engagement with a E-Commerce client (CS-ALEX-003), I built a similar solution where we Designed and delivered Customer Churn Prediction and Explainable ML Classification for E-Commerce. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-044",
+    "job_title": "Document Entity Extraction and Fine-Tuning with LoRA for EdTech",
+    "bid_amount": 2329.71,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-004"
+    ],
+    "skills": [
+      "NumPy",
+      "vLLM",
+      "BM25",
+      "PEFT",
+      "Docker"
+    ],
+    "submitted_at": "2024-11-24",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Document Entity Extraction and Fine-Tuning with LoRA for EdTech. In a previous engagement with a EdTech client (CS-ALEX-004), I built a similar solution where we Designed and delivered Document Entity Extraction and Fine-Tuning with LoRA for EdTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-045",
+    "job_title": "Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer",
+    "bid_amount": 2953.91,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-005"
+    ],
+    "skills": [
+      "RAG Architecture",
+      "FastAPI",
+      "Python",
+      "LangGraph",
+      "BM25"
+    ],
+    "submitted_at": "2024-11-28",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. In a previous engagement with a Logistics client (CS-ALEX-005), I built a similar solution where we Designed and delivered Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-046",
+    "job_title": "Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team",
+    "bid_amount": 441.08,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-006"
+    ],
+    "skills": [
+      "FastAPI",
+      "LangChain",
+      "vLLM",
+      "Pinecone",
+      "HuggingFace"
+    ],
+    "submitted_at": "2024-12-02",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. In a previous engagement with a SaaS Enterprise client (CS-ALEX-006), I built a similar solution where we Designed and delivered Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-047",
+    "job_title": "Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client",
+    "bid_amount": 1367.38,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-007"
+    ],
+    "skills": [
+      "HuggingFace",
+      "Qdrant",
+      "LoRA",
+      "FastAPI",
+      "PyTorch"
+    ],
+    "submitted_at": "2024-12-06",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. In a previous engagement with a Cybersecurity client (CS-ALEX-007), I built a similar solution where we Designed and delivered Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-048",
+    "job_title": "Automated Content Tagging & Clustering Engine using Sentence-Transformers",
+    "bid_amount": 718.62,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-008"
+    ],
+    "skills": [
+      "HuggingFace",
+      "ChromaDB",
+      "TensorFlow",
+      "NumPy",
+      "Vector Databases"
+    ],
+    "submitted_at": "2024-12-10",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Automated Content Tagging & Clustering Engine using Sentence-Transformers. In a previous engagement with a LegalTech client (CS-ALEX-008), I built a similar solution where we Designed and delivered Automated Content Tagging & Clustering Engine using Sentence-Transformers. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-049",
+    "job_title": "Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate",
+    "bid_amount": 3435.35,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-009"
+    ],
+    "skills": [
+      "RAG Architecture",
+      "vLLM",
+      "BM25",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "submitted_at": "2024-12-14",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. In a previous engagement with a Real Estate client (CS-ALEX-009), I built a similar solution where we Designed and delivered Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-050",
+    "job_title": "Voice Agent & Whisper Transcription Pipeline with FastAPI for Media",
+    "bid_amount": 817.06,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-010"
+    ],
+    "skills": [
+      "TensorFlow",
+      "Ollama",
+      "HuggingFace",
+      "ChromaDB",
+      "FastAPI"
+    ],
+    "submitted_at": "2024-12-18",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. In a previous engagement with a Media client (CS-ALEX-010), I built a similar solution where we Designed and delivered Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-051",
+    "job_title": "Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base",
+    "bid_amount": 1713.87,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-011"
+    ],
+    "skills": [
+      "Qdrant",
+      "LangGraph",
+      "vLLM",
+      "Sentence-Transformers",
+      "FastAPI"
+    ],
+    "submitted_at": "2024-12-22",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. In a previous engagement with a Fintech client (CS-ALEX-011), I built a similar solution where we Designed and delivered Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-052",
+    "job_title": "Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech",
+    "bid_amount": 2558.14,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-012"
+    ],
+    "skills": [
+      "PEFT",
+      "LangGraph",
+      "NumPy",
+      "Ollama",
+      "MLflow"
+    ],
+    "submitted_at": "2024-12-26",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. In a previous engagement with a HealthTech client (CS-ALEX-012), I built a similar solution where we Designed and delivered Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-053",
+    "job_title": "Customer Churn Prediction and Explainable ML Classification for E-Commerce",
+    "bid_amount": 2094.9,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-013"
+    ],
+    "skills": [
+      "PEFT",
+      "BM25",
+      "NumPy",
+      "Ollama",
+      "Sentence-Transformers"
+    ],
+    "submitted_at": "2024-12-30",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Customer Churn Prediction and Explainable ML Classification for E-Commerce. In a previous engagement with a E-Commerce client (CS-ALEX-013), I built a similar solution where we Designed and delivered Customer Churn Prediction and Explainable ML Classification for E-Commerce. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-054",
+    "job_title": "Document Entity Extraction and Fine-Tuning with LoRA for EdTech",
+    "bid_amount": 658.0,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-014"
+    ],
+    "skills": [
+      "Ollama",
+      "PyTorch",
+      "Pinecone",
+      "ChromaDB",
+      "FastAPI"
+    ],
+    "submitted_at": "2025-01-03",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Document Entity Extraction and Fine-Tuning with LoRA for EdTech. In a previous engagement with a EdTech client (CS-ALEX-014), I built a similar solution where we Designed and delivered Document Entity Extraction and Fine-Tuning with LoRA for EdTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-055",
+    "job_title": "Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer",
+    "bid_amount": 3324.16,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-015"
+    ],
+    "skills": [
+      "RAG Architecture",
+      "BM25",
+      "Pinecone",
+      "vLLM",
+      "PEFT"
+    ],
+    "submitted_at": "2025-01-07",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. In a previous engagement with a Logistics client (CS-ALEX-015), I built a similar solution where we Designed and delivered Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-056",
+    "job_title": "Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team",
+    "bid_amount": 2511.26,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-016"
+    ],
+    "skills": [
+      "PEFT",
+      "MLflow",
+      "LangChain",
+      "FastAPI",
+      "Ollama"
+    ],
+    "submitted_at": "2025-01-11",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. In a previous engagement with a SaaS Enterprise client (CS-ALEX-016), I built a similar solution where we Designed and delivered Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-057",
+    "job_title": "Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client",
+    "bid_amount": 776.97,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-017"
+    ],
+    "skills": [
+      "FastAPI",
+      "RAG Architecture",
+      "Docker",
+      "ChromaDB",
+      "Qdrant"
+    ],
+    "submitted_at": "2025-01-15",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. In a previous engagement with a Cybersecurity client (CS-ALEX-017), I built a similar solution where we Designed and delivered Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-058",
+    "job_title": "Automated Content Tagging & Clustering Engine using Sentence-Transformers",
+    "bid_amount": 415.29,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-018"
+    ],
+    "skills": [
+      "Pandas",
+      "scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "HuggingFace"
+    ],
+    "submitted_at": "2025-01-19",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Automated Content Tagging & Clustering Engine using Sentence-Transformers. In a previous engagement with a LegalTech client (CS-ALEX-018), I built a similar solution where we Designed and delivered Automated Content Tagging & Clustering Engine using Sentence-Transformers. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-059",
+    "job_title": "Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate",
+    "bid_amount": 1481.49,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-019"
+    ],
+    "skills": [
+      "LangGraph",
+      "Sentence-Transformers",
+      "Docker",
+      "LoRA",
+      "TensorFlow"
+    ],
+    "submitted_at": "2025-01-23",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. In a previous engagement with a Real Estate client (CS-ALEX-019), I built a similar solution where we Designed and delivered Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-060",
+    "job_title": "Voice Agent & Whisper Transcription Pipeline with FastAPI for Media",
+    "bid_amount": 2068.08,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-020"
+    ],
+    "skills": [
+      "LoRA",
+      "MLflow",
+      "Pandas",
+      "FastAPI",
+      "NumPy"
+    ],
+    "submitted_at": "2025-01-27",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. In a previous engagement with a Media client (CS-ALEX-020), I built a similar solution where we Designed and delivered Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-061",
+    "job_title": "Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base",
+    "bid_amount": 1675.32,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-001"
+    ],
+    "skills": [
+      "PEFT",
+      "HuggingFace",
+      "Python",
+      "FastAPI",
+      "Ollama"
+    ],
+    "submitted_at": "2025-01-31",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. In a previous engagement with a Fintech client (CS-ALEX-001), I built a similar solution where we Designed and delivered Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-062",
+    "job_title": "Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech",
+    "bid_amount": 433.85,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-002"
+    ],
+    "skills": [
+      "HuggingFace",
+      "Sentence-Transformers",
+      "NumPy",
+      "TensorFlow",
+      "RAG Architecture"
+    ],
+    "submitted_at": "2025-02-04",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. In a previous engagement with a HealthTech client (CS-ALEX-002), I built a similar solution where we Designed and delivered Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-063",
+    "job_title": "Customer Churn Prediction and Explainable ML Classification for E-Commerce",
+    "bid_amount": 1466.88,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-003"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "vLLM",
+      "Ollama",
+      "Pandas"
+    ],
+    "submitted_at": "2025-02-08",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Customer Churn Prediction and Explainable ML Classification for E-Commerce. In a previous engagement with a E-Commerce client (CS-ALEX-003), I built a similar solution where we Designed and delivered Customer Churn Prediction and Explainable ML Classification for E-Commerce. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-064",
+    "job_title": "Document Entity Extraction and Fine-Tuning with LoRA for EdTech",
+    "bid_amount": 3285.88,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-004"
+    ],
+    "skills": [
+      "NumPy",
+      "vLLM",
+      "BM25",
+      "PEFT",
+      "Docker"
+    ],
+    "submitted_at": "2025-02-12",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Document Entity Extraction and Fine-Tuning with LoRA for EdTech. In a previous engagement with a EdTech client (CS-ALEX-004), I built a similar solution where we Designed and delivered Document Entity Extraction and Fine-Tuning with LoRA for EdTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-065",
+    "job_title": "Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer",
+    "bid_amount": 3411.03,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-005"
+    ],
+    "skills": [
+      "RAG Architecture",
+      "FastAPI",
+      "Python",
+      "LangGraph",
+      "BM25"
+    ],
+    "submitted_at": "2025-02-16",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. In a previous engagement with a Logistics client (CS-ALEX-005), I built a similar solution where we Designed and delivered Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-066",
+    "job_title": "Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team",
+    "bid_amount": 427.66,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-006"
+    ],
+    "skills": [
+      "FastAPI",
+      "LangChain",
+      "vLLM",
+      "Pinecone",
+      "HuggingFace"
+    ],
+    "submitted_at": "2025-02-20",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. In a previous engagement with a SaaS Enterprise client (CS-ALEX-006), I built a similar solution where we Designed and delivered Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-067",
+    "job_title": "Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client",
+    "bid_amount": 1444.99,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-007"
+    ],
+    "skills": [
+      "HuggingFace",
+      "Qdrant",
+      "LoRA",
+      "FastAPI",
+      "PyTorch"
+    ],
+    "submitted_at": "2025-02-24",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. In a previous engagement with a Cybersecurity client (CS-ALEX-007), I built a similar solution where we Designed and delivered Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-068",
+    "job_title": "Automated Content Tagging & Clustering Engine using Sentence-Transformers",
+    "bid_amount": 2482.61,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-008"
+    ],
+    "skills": [
+      "HuggingFace",
+      "ChromaDB",
+      "TensorFlow",
+      "NumPy",
+      "Vector Databases"
+    ],
+    "submitted_at": "2025-02-28",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Automated Content Tagging & Clustering Engine using Sentence-Transformers. In a previous engagement with a LegalTech client (CS-ALEX-008), I built a similar solution where we Designed and delivered Automated Content Tagging & Clustering Engine using Sentence-Transformers. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-069",
+    "job_title": "Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate",
+    "bid_amount": 2434.19,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-009"
+    ],
+    "skills": [
+      "RAG Architecture",
+      "vLLM",
+      "BM25",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "submitted_at": "2025-03-04",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. In a previous engagement with a Real Estate client (CS-ALEX-009), I built a similar solution where we Designed and delivered Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-070",
+    "job_title": "Voice Agent & Whisper Transcription Pipeline with FastAPI for Media",
+    "bid_amount": 1431.77,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-010"
+    ],
+    "skills": [
+      "TensorFlow",
+      "Ollama",
+      "HuggingFace",
+      "ChromaDB",
+      "FastAPI"
+    ],
+    "submitted_at": "2025-03-08",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. In a previous engagement with a Media client (CS-ALEX-010), I built a similar solution where we Designed and delivered Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-071",
+    "job_title": "Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base",
+    "bid_amount": 2091.63,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-011"
+    ],
+    "skills": [
+      "Qdrant",
+      "LangGraph",
+      "vLLM",
+      "Sentence-Transformers",
+      "FastAPI"
+    ],
+    "submitted_at": "2025-03-12",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. In a previous engagement with a Fintech client (CS-ALEX-011), I built a similar solution where we Designed and delivered Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-072",
+    "job_title": "Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech",
+    "bid_amount": 3099.08,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-012"
+    ],
+    "skills": [
+      "PEFT",
+      "LangGraph",
+      "NumPy",
+      "Ollama",
+      "MLflow"
+    ],
+    "submitted_at": "2025-03-16",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. In a previous engagement with a HealthTech client (CS-ALEX-012), I built a similar solution where we Designed and delivered Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-073",
+    "job_title": "Customer Churn Prediction and Explainable ML Classification for E-Commerce",
+    "bid_amount": 3416.28,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-013"
+    ],
+    "skills": [
+      "PEFT",
+      "BM25",
+      "NumPy",
+      "Ollama",
+      "Sentence-Transformers"
+    ],
+    "submitted_at": "2025-03-20",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Customer Churn Prediction and Explainable ML Classification for E-Commerce. In a previous engagement with a E-Commerce client (CS-ALEX-013), I built a similar solution where we Designed and delivered Customer Churn Prediction and Explainable ML Classification for E-Commerce. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-074",
+    "job_title": "Document Entity Extraction and Fine-Tuning with LoRA for EdTech",
+    "bid_amount": 2698.33,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-014"
+    ],
+    "skills": [
+      "Ollama",
+      "PyTorch",
+      "Pinecone",
+      "ChromaDB",
+      "FastAPI"
+    ],
+    "submitted_at": "2025-03-24",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Document Entity Extraction and Fine-Tuning with LoRA for EdTech. In a previous engagement with a EdTech client (CS-ALEX-014), I built a similar solution where we Designed and delivered Document Entity Extraction and Fine-Tuning with LoRA for EdTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-075",
+    "job_title": "Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer",
+    "bid_amount": 3262.44,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-015"
+    ],
+    "skills": [
+      "RAG Architecture",
+      "BM25",
+      "Pinecone",
+      "vLLM",
+      "PEFT"
+    ],
+    "submitted_at": "2025-03-28",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. In a previous engagement with a Logistics client (CS-ALEX-015), I built a similar solution where we Designed and delivered Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-076",
+    "job_title": "Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team",
+    "bid_amount": 1057.56,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-016"
+    ],
+    "skills": [
+      "PEFT",
+      "MLflow",
+      "LangChain",
+      "FastAPI",
+      "Ollama"
+    ],
+    "submitted_at": "2025-04-01",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. In a previous engagement with a SaaS Enterprise client (CS-ALEX-016), I built a similar solution where we Designed and delivered Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-077",
+    "job_title": "Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client",
+    "bid_amount": 820.01,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-017"
+    ],
+    "skills": [
+      "FastAPI",
+      "RAG Architecture",
+      "Docker",
+      "ChromaDB",
+      "Qdrant"
+    ],
+    "submitted_at": "2025-04-05",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. In a previous engagement with a Cybersecurity client (CS-ALEX-017), I built a similar solution where we Designed and delivered Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-078",
+    "job_title": "Automated Content Tagging & Clustering Engine using Sentence-Transformers",
+    "bid_amount": 2859.64,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-018"
+    ],
+    "skills": [
+      "Pandas",
+      "scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "HuggingFace"
+    ],
+    "submitted_at": "2025-04-09",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Automated Content Tagging & Clustering Engine using Sentence-Transformers. In a previous engagement with a LegalTech client (CS-ALEX-018), I built a similar solution where we Designed and delivered Automated Content Tagging & Clustering Engine using Sentence-Transformers. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-079",
+    "job_title": "Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate",
+    "bid_amount": 866.57,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-019"
+    ],
+    "skills": [
+      "LangGraph",
+      "Sentence-Transformers",
+      "Docker",
+      "LoRA",
+      "TensorFlow"
+    ],
+    "submitted_at": "2025-04-13",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. In a previous engagement with a Real Estate client (CS-ALEX-019), I built a similar solution where we Designed and delivered Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-080",
+    "job_title": "Voice Agent & Whisper Transcription Pipeline with FastAPI for Media",
+    "bid_amount": 1619.34,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-020"
+    ],
+    "skills": [
+      "LoRA",
+      "MLflow",
+      "Pandas",
+      "FastAPI",
+      "NumPy"
+    ],
+    "submitted_at": "2025-04-17",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. In a previous engagement with a Media client (CS-ALEX-020), I built a similar solution where we Designed and delivered Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-081",
+    "job_title": "Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base",
+    "bid_amount": 873.95,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-001"
+    ],
+    "skills": [
+      "PEFT",
+      "HuggingFace",
+      "Python",
+      "FastAPI",
+      "Ollama"
+    ],
+    "submitted_at": "2025-04-21",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. In a previous engagement with a Fintech client (CS-ALEX-001), I built a similar solution where we Designed and delivered Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-082",
+    "job_title": "Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech",
+    "bid_amount": 3258.36,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-002"
+    ],
+    "skills": [
+      "HuggingFace",
+      "Sentence-Transformers",
+      "NumPy",
+      "TensorFlow",
+      "RAG Architecture"
+    ],
+    "submitted_at": "2025-04-25",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. In a previous engagement with a HealthTech client (CS-ALEX-002), I built a similar solution where we Designed and delivered Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-083",
+    "job_title": "Customer Churn Prediction and Explainable ML Classification for E-Commerce",
+    "bid_amount": 2803.64,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-003"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "vLLM",
+      "Ollama",
+      "Pandas"
+    ],
+    "submitted_at": "2025-04-29",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Customer Churn Prediction and Explainable ML Classification for E-Commerce. In a previous engagement with a E-Commerce client (CS-ALEX-003), I built a similar solution where we Designed and delivered Customer Churn Prediction and Explainable ML Classification for E-Commerce. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-084",
+    "job_title": "Document Entity Extraction and Fine-Tuning with LoRA for EdTech",
+    "bid_amount": 1617.48,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-004"
+    ],
+    "skills": [
+      "NumPy",
+      "vLLM",
+      "BM25",
+      "PEFT",
+      "Docker"
+    ],
+    "submitted_at": "2025-05-03",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Document Entity Extraction and Fine-Tuning with LoRA for EdTech. In a previous engagement with a EdTech client (CS-ALEX-004), I built a similar solution where we Designed and delivered Document Entity Extraction and Fine-Tuning with LoRA for EdTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-085",
+    "job_title": "Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer",
+    "bid_amount": 2443.7,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-005"
+    ],
+    "skills": [
+      "RAG Architecture",
+      "FastAPI",
+      "Python",
+      "LangGraph",
+      "BM25"
+    ],
+    "submitted_at": "2025-05-07",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. In a previous engagement with a Logistics client (CS-ALEX-005), I built a similar solution where we Designed and delivered Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-086",
+    "job_title": "Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team",
+    "bid_amount": 2652.18,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-006"
+    ],
+    "skills": [
+      "FastAPI",
+      "LangChain",
+      "vLLM",
+      "Pinecone",
+      "HuggingFace"
+    ],
+    "submitted_at": "2025-05-11",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. In a previous engagement with a SaaS Enterprise client (CS-ALEX-006), I built a similar solution where we Designed and delivered Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-087",
+    "job_title": "Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client",
+    "bid_amount": 1094.14,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-007"
+    ],
+    "skills": [
+      "HuggingFace",
+      "Qdrant",
+      "LoRA",
+      "FastAPI",
+      "PyTorch"
+    ],
+    "submitted_at": "2025-05-15",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. In a previous engagement with a Cybersecurity client (CS-ALEX-007), I built a similar solution where we Designed and delivered Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-088",
+    "job_title": "Automated Content Tagging & Clustering Engine using Sentence-Transformers",
+    "bid_amount": 809.43,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-008"
+    ],
+    "skills": [
+      "HuggingFace",
+      "ChromaDB",
+      "TensorFlow",
+      "NumPy",
+      "Vector Databases"
+    ],
+    "submitted_at": "2025-05-19",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Automated Content Tagging & Clustering Engine using Sentence-Transformers. In a previous engagement with a LegalTech client (CS-ALEX-008), I built a similar solution where we Designed and delivered Automated Content Tagging & Clustering Engine using Sentence-Transformers. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-089",
+    "job_title": "Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate",
+    "bid_amount": 2544.09,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-009"
+    ],
+    "skills": [
+      "RAG Architecture",
+      "vLLM",
+      "BM25",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "submitted_at": "2025-05-23",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. In a previous engagement with a Real Estate client (CS-ALEX-009), I built a similar solution where we Designed and delivered Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-090",
+    "job_title": "Voice Agent & Whisper Transcription Pipeline with FastAPI for Media",
+    "bid_amount": 1524.13,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-010"
+    ],
+    "skills": [
+      "TensorFlow",
+      "Ollama",
+      "HuggingFace",
+      "ChromaDB",
+      "FastAPI"
+    ],
+    "submitted_at": "2025-05-27",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. In a previous engagement with a Media client (CS-ALEX-010), I built a similar solution where we Designed and delivered Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-091",
+    "job_title": "Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base",
+    "bid_amount": 423.92,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-011"
+    ],
+    "skills": [
+      "Qdrant",
+      "LangGraph",
+      "vLLM",
+      "Sentence-Transformers",
+      "FastAPI"
+    ],
+    "submitted_at": "2025-05-31",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. In a previous engagement with a Fintech client (CS-ALEX-011), I built a similar solution where we Designed and delivered Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-092",
+    "job_title": "Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech",
+    "bid_amount": 1806.21,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-012"
+    ],
+    "skills": [
+      "PEFT",
+      "LangGraph",
+      "NumPy",
+      "Ollama",
+      "MLflow"
+    ],
+    "submitted_at": "2025-06-04",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. In a previous engagement with a HealthTech client (CS-ALEX-012), I built a similar solution where we Designed and delivered Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-093",
+    "job_title": "Customer Churn Prediction and Explainable ML Classification for E-Commerce",
+    "bid_amount": 938.63,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-013"
+    ],
+    "skills": [
+      "PEFT",
+      "BM25",
+      "NumPy",
+      "Ollama",
+      "Sentence-Transformers"
+    ],
+    "submitted_at": "2025-06-08",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Customer Churn Prediction and Explainable ML Classification for E-Commerce. In a previous engagement with a E-Commerce client (CS-ALEX-013), I built a similar solution where we Designed and delivered Customer Churn Prediction and Explainable ML Classification for E-Commerce. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-094",
+    "job_title": "Document Entity Extraction and Fine-Tuning with LoRA for EdTech",
+    "bid_amount": 3239.05,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-014"
+    ],
+    "skills": [
+      "Ollama",
+      "PyTorch",
+      "Pinecone",
+      "ChromaDB",
+      "FastAPI"
+    ],
+    "submitted_at": "2025-06-12",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Document Entity Extraction and Fine-Tuning with LoRA for EdTech. In a previous engagement with a EdTech client (CS-ALEX-014), I built a similar solution where we Designed and delivered Document Entity Extraction and Fine-Tuning with LoRA for EdTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-095",
+    "job_title": "Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer",
+    "bid_amount": 1418.91,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-015"
+    ],
+    "skills": [
+      "RAG Architecture",
+      "BM25",
+      "Pinecone",
+      "vLLM",
+      "PEFT"
+    ],
+    "submitted_at": "2025-06-16",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. In a previous engagement with a Logistics client (CS-ALEX-015), I built a similar solution where we Designed and delivered Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-096",
+    "job_title": "Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team",
+    "bid_amount": 2925.72,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-016"
+    ],
+    "skills": [
+      "PEFT",
+      "MLflow",
+      "LangChain",
+      "FastAPI",
+      "Ollama"
+    ],
+    "submitted_at": "2025-06-20",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. In a previous engagement with a SaaS Enterprise client (CS-ALEX-016), I built a similar solution where we Designed and delivered Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-097",
+    "job_title": "Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client",
+    "bid_amount": 3088.23,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-017"
+    ],
+    "skills": [
+      "FastAPI",
+      "RAG Architecture",
+      "Docker",
+      "ChromaDB",
+      "Qdrant"
+    ],
+    "submitted_at": "2025-06-24",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. In a previous engagement with a Cybersecurity client (CS-ALEX-017), I built a similar solution where we Designed and delivered Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-098",
+    "job_title": "Automated Content Tagging & Clustering Engine using Sentence-Transformers",
+    "bid_amount": 1013.36,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-018"
+    ],
+    "skills": [
+      "Pandas",
+      "scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "HuggingFace"
+    ],
+    "submitted_at": "2025-06-28",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Automated Content Tagging & Clustering Engine using Sentence-Transformers. In a previous engagement with a LegalTech client (CS-ALEX-018), I built a similar solution where we Designed and delivered Automated Content Tagging & Clustering Engine using Sentence-Transformers. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-099",
+    "job_title": "Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate",
+    "bid_amount": 2412.11,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-019"
+    ],
+    "skills": [
+      "LangGraph",
+      "Sentence-Transformers",
+      "Docker",
+      "LoRA",
+      "TensorFlow"
+    ],
+    "submitted_at": "2025-07-02",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. In a previous engagement with a Real Estate client (CS-ALEX-019), I built a similar solution where we Designed and delivered Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-100",
+    "job_title": "Voice Agent & Whisper Transcription Pipeline with FastAPI for Media",
+    "bid_amount": 1575.09,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-020"
+    ],
+    "skills": [
+      "LoRA",
+      "MLflow",
+      "Pandas",
+      "FastAPI",
+      "NumPy"
+    ],
+    "submitted_at": "2025-07-06",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. In a previous engagement with a Media client (CS-ALEX-020), I built a similar solution where we Designed and delivered Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-101",
+    "job_title": "Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base",
+    "bid_amount": 1191.53,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-001"
+    ],
+    "skills": [
+      "PEFT",
+      "HuggingFace",
+      "Python",
+      "FastAPI",
+      "Ollama"
+    ],
+    "submitted_at": "2025-07-10",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. In a previous engagement with a Fintech client (CS-ALEX-001), I built a similar solution where we Designed and delivered Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-102",
+    "job_title": "Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech",
+    "bid_amount": 522.15,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-002"
+    ],
+    "skills": [
+      "HuggingFace",
+      "Sentence-Transformers",
+      "NumPy",
+      "TensorFlow",
+      "RAG Architecture"
+    ],
+    "submitted_at": "2025-07-14",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. In a previous engagement with a HealthTech client (CS-ALEX-002), I built a similar solution where we Designed and delivered Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-103",
+    "job_title": "Customer Churn Prediction and Explainable ML Classification for E-Commerce",
+    "bid_amount": 2774.65,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-003"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "vLLM",
+      "Ollama",
+      "Pandas"
+    ],
+    "submitted_at": "2025-07-18",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Customer Churn Prediction and Explainable ML Classification for E-Commerce. In a previous engagement with a E-Commerce client (CS-ALEX-003), I built a similar solution where we Designed and delivered Customer Churn Prediction and Explainable ML Classification for E-Commerce. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-104",
+    "job_title": "Document Entity Extraction and Fine-Tuning with LoRA for EdTech",
+    "bid_amount": 1423.67,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-004"
+    ],
+    "skills": [
+      "NumPy",
+      "vLLM",
+      "BM25",
+      "PEFT",
+      "Docker"
+    ],
+    "submitted_at": "2025-07-22",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Document Entity Extraction and Fine-Tuning with LoRA for EdTech. In a previous engagement with a EdTech client (CS-ALEX-004), I built a similar solution where we Designed and delivered Document Entity Extraction and Fine-Tuning with LoRA for EdTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-105",
+    "job_title": "Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer",
+    "bid_amount": 1930.1,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-005"
+    ],
+    "skills": [
+      "RAG Architecture",
+      "FastAPI",
+      "Python",
+      "LangGraph",
+      "BM25"
+    ],
+    "submitted_at": "2025-07-26",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. In a previous engagement with a Logistics client (CS-ALEX-005), I built a similar solution where we Designed and delivered Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-106",
+    "job_title": "Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team",
+    "bid_amount": 2474.46,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-006"
+    ],
+    "skills": [
+      "FastAPI",
+      "LangChain",
+      "vLLM",
+      "Pinecone",
+      "HuggingFace"
+    ],
+    "submitted_at": "2025-07-30",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. In a previous engagement with a SaaS Enterprise client (CS-ALEX-006), I built a similar solution where we Designed and delivered Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-107",
+    "job_title": "Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client",
+    "bid_amount": 2999.72,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-007"
+    ],
+    "skills": [
+      "HuggingFace",
+      "Qdrant",
+      "LoRA",
+      "FastAPI",
+      "PyTorch"
+    ],
+    "submitted_at": "2025-08-03",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. In a previous engagement with a Cybersecurity client (CS-ALEX-007), I built a similar solution where we Designed and delivered Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-108",
+    "job_title": "Automated Content Tagging & Clustering Engine using Sentence-Transformers",
+    "bid_amount": 1359.68,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-008"
+    ],
+    "skills": [
+      "HuggingFace",
+      "ChromaDB",
+      "TensorFlow",
+      "NumPy",
+      "Vector Databases"
+    ],
+    "submitted_at": "2025-08-07",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Automated Content Tagging & Clustering Engine using Sentence-Transformers. In a previous engagement with a LegalTech client (CS-ALEX-008), I built a similar solution where we Designed and delivered Automated Content Tagging & Clustering Engine using Sentence-Transformers. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-109",
+    "job_title": "Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate",
+    "bid_amount": 388.32,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-009"
+    ],
+    "skills": [
+      "RAG Architecture",
+      "vLLM",
+      "BM25",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "submitted_at": "2025-08-11",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. In a previous engagement with a Real Estate client (CS-ALEX-009), I built a similar solution where we Designed and delivered Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-110",
+    "job_title": "Voice Agent & Whisper Transcription Pipeline with FastAPI for Media",
+    "bid_amount": 3106.52,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-010"
+    ],
+    "skills": [
+      "TensorFlow",
+      "Ollama",
+      "HuggingFace",
+      "ChromaDB",
+      "FastAPI"
+    ],
+    "submitted_at": "2025-08-15",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. In a previous engagement with a Media client (CS-ALEX-010), I built a similar solution where we Designed and delivered Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-111",
+    "job_title": "Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base",
+    "bid_amount": 1135.89,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-011"
+    ],
+    "skills": [
+      "Qdrant",
+      "LangGraph",
+      "vLLM",
+      "Sentence-Transformers",
+      "FastAPI"
+    ],
+    "submitted_at": "2025-08-19",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. In a previous engagement with a Fintech client (CS-ALEX-011), I built a similar solution where we Designed and delivered Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-112",
+    "job_title": "Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech",
+    "bid_amount": 2157.89,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-012"
+    ],
+    "skills": [
+      "PEFT",
+      "LangGraph",
+      "NumPy",
+      "Ollama",
+      "MLflow"
+    ],
+    "submitted_at": "2025-08-23",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. In a previous engagement with a HealthTech client (CS-ALEX-012), I built a similar solution where we Designed and delivered Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-113",
+    "job_title": "Customer Churn Prediction and Explainable ML Classification for E-Commerce",
+    "bid_amount": 3447.36,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-013"
+    ],
+    "skills": [
+      "PEFT",
+      "BM25",
+      "NumPy",
+      "Ollama",
+      "Sentence-Transformers"
+    ],
+    "submitted_at": "2025-08-27",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Customer Churn Prediction and Explainable ML Classification for E-Commerce. In a previous engagement with a E-Commerce client (CS-ALEX-013), I built a similar solution where we Designed and delivered Customer Churn Prediction and Explainable ML Classification for E-Commerce. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-114",
+    "job_title": "Document Entity Extraction and Fine-Tuning with LoRA for EdTech",
+    "bid_amount": 422.42,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-014"
+    ],
+    "skills": [
+      "Ollama",
+      "PyTorch",
+      "Pinecone",
+      "ChromaDB",
+      "FastAPI"
+    ],
+    "submitted_at": "2025-08-31",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Document Entity Extraction and Fine-Tuning with LoRA for EdTech. In a previous engagement with a EdTech client (CS-ALEX-014), I built a similar solution where we Designed and delivered Document Entity Extraction and Fine-Tuning with LoRA for EdTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-115",
+    "job_title": "Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer",
+    "bid_amount": 2209.03,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-015"
+    ],
+    "skills": [
+      "RAG Architecture",
+      "BM25",
+      "Pinecone",
+      "vLLM",
+      "PEFT"
+    ],
+    "submitted_at": "2025-09-04",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. In a previous engagement with a Logistics client (CS-ALEX-015), I built a similar solution where we Designed and delivered Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-116",
+    "job_title": "Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team",
+    "bid_amount": 1406.2,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-016"
+    ],
+    "skills": [
+      "PEFT",
+      "MLflow",
+      "LangChain",
+      "FastAPI",
+      "Ollama"
+    ],
+    "submitted_at": "2025-09-08",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. In a previous engagement with a SaaS Enterprise client (CS-ALEX-016), I built a similar solution where we Designed and delivered Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-117",
+    "job_title": "Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client",
+    "bid_amount": 2816.57,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-017"
+    ],
+    "skills": [
+      "FastAPI",
+      "RAG Architecture",
+      "Docker",
+      "ChromaDB",
+      "Qdrant"
+    ],
+    "submitted_at": "2025-09-12",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. In a previous engagement with a Cybersecurity client (CS-ALEX-017), I built a similar solution where we Designed and delivered Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-118",
+    "job_title": "Automated Content Tagging & Clustering Engine using Sentence-Transformers",
+    "bid_amount": 1696.46,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-018"
+    ],
+    "skills": [
+      "Pandas",
+      "scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "HuggingFace"
+    ],
+    "submitted_at": "2025-09-16",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Automated Content Tagging & Clustering Engine using Sentence-Transformers. In a previous engagement with a LegalTech client (CS-ALEX-018), I built a similar solution where we Designed and delivered Automated Content Tagging & Clustering Engine using Sentence-Transformers. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-119",
+    "job_title": "Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate",
+    "bid_amount": 3449.55,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-019"
+    ],
+    "skills": [
+      "LangGraph",
+      "Sentence-Transformers",
+      "Docker",
+      "LoRA",
+      "TensorFlow"
+    ],
+    "submitted_at": "2025-09-20",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. In a previous engagement with a Real Estate client (CS-ALEX-019), I built a similar solution where we Designed and delivered Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-120",
+    "job_title": "Voice Agent & Whisper Transcription Pipeline with FastAPI for Media",
+    "bid_amount": 670.07,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-020"
+    ],
+    "skills": [
+      "LoRA",
+      "MLflow",
+      "Pandas",
+      "FastAPI",
+      "NumPy"
+    ],
+    "submitted_at": "2025-09-24",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. In a previous engagement with a Media client (CS-ALEX-020), I built a similar solution where we Designed and delivered Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-121",
+    "job_title": "Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base",
+    "bid_amount": 3178.42,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-001"
+    ],
+    "skills": [
+      "PEFT",
+      "HuggingFace",
+      "Python",
+      "FastAPI",
+      "Ollama"
+    ],
+    "submitted_at": "2025-09-28",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. In a previous engagement with a Fintech client (CS-ALEX-001), I built a similar solution where we Designed and delivered Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-122",
+    "job_title": "Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech",
+    "bid_amount": 908.25,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-002"
+    ],
+    "skills": [
+      "HuggingFace",
+      "Sentence-Transformers",
+      "NumPy",
+      "TensorFlow",
+      "RAG Architecture"
+    ],
+    "submitted_at": "2025-10-02",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. In a previous engagement with a HealthTech client (CS-ALEX-002), I built a similar solution where we Designed and delivered Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-123",
+    "job_title": "Customer Churn Prediction and Explainable ML Classification for E-Commerce",
+    "bid_amount": 442.04,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-003"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "vLLM",
+      "Ollama",
+      "Pandas"
+    ],
+    "submitted_at": "2025-10-06",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Customer Churn Prediction and Explainable ML Classification for E-Commerce. In a previous engagement with a E-Commerce client (CS-ALEX-003), I built a similar solution where we Designed and delivered Customer Churn Prediction and Explainable ML Classification for E-Commerce. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-124",
+    "job_title": "Document Entity Extraction and Fine-Tuning with LoRA for EdTech",
+    "bid_amount": 1695.38,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-004"
+    ],
+    "skills": [
+      "NumPy",
+      "vLLM",
+      "BM25",
+      "PEFT",
+      "Docker"
+    ],
+    "submitted_at": "2025-10-10",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Document Entity Extraction and Fine-Tuning with LoRA for EdTech. In a previous engagement with a EdTech client (CS-ALEX-004), I built a similar solution where we Designed and delivered Document Entity Extraction and Fine-Tuning with LoRA for EdTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-125",
+    "job_title": "Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer",
+    "bid_amount": 1963.75,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-005"
+    ],
+    "skills": [
+      "RAG Architecture",
+      "FastAPI",
+      "Python",
+      "LangGraph",
+      "BM25"
+    ],
+    "submitted_at": "2025-10-14",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. In a previous engagement with a Logistics client (CS-ALEX-005), I built a similar solution where we Designed and delivered Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-126",
+    "job_title": "Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team",
+    "bid_amount": 2880.83,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-006"
+    ],
+    "skills": [
+      "FastAPI",
+      "LangChain",
+      "vLLM",
+      "Pinecone",
+      "HuggingFace"
+    ],
+    "submitted_at": "2025-10-18",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. In a previous engagement with a SaaS Enterprise client (CS-ALEX-006), I built a similar solution where we Designed and delivered Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-127",
+    "job_title": "Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client",
+    "bid_amount": 2497.94,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-007"
+    ],
+    "skills": [
+      "HuggingFace",
+      "Qdrant",
+      "LoRA",
+      "FastAPI",
+      "PyTorch"
+    ],
+    "submitted_at": "2025-10-22",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. In a previous engagement with a Cybersecurity client (CS-ALEX-007), I built a similar solution where we Designed and delivered Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-128",
+    "job_title": "Automated Content Tagging & Clustering Engine using Sentence-Transformers",
+    "bid_amount": 3308.84,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-008"
+    ],
+    "skills": [
+      "HuggingFace",
+      "ChromaDB",
+      "TensorFlow",
+      "NumPy",
+      "Vector Databases"
+    ],
+    "submitted_at": "2025-10-26",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Automated Content Tagging & Clustering Engine using Sentence-Transformers. In a previous engagement with a LegalTech client (CS-ALEX-008), I built a similar solution where we Designed and delivered Automated Content Tagging & Clustering Engine using Sentence-Transformers. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-129",
+    "job_title": "Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate",
+    "bid_amount": 2658.52,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-009"
+    ],
+    "skills": [
+      "RAG Architecture",
+      "vLLM",
+      "BM25",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "submitted_at": "2025-10-30",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. In a previous engagement with a Real Estate client (CS-ALEX-009), I built a similar solution where we Designed and delivered Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-130",
+    "job_title": "Voice Agent & Whisper Transcription Pipeline with FastAPI for Media",
+    "bid_amount": 930.51,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-010"
+    ],
+    "skills": [
+      "TensorFlow",
+      "Ollama",
+      "HuggingFace",
+      "ChromaDB",
+      "FastAPI"
+    ],
+    "submitted_at": "2025-11-03",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. In a previous engagement with a Media client (CS-ALEX-010), I built a similar solution where we Designed and delivered Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-131",
+    "job_title": "Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base",
+    "bid_amount": 1680.15,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-011"
+    ],
+    "skills": [
+      "Qdrant",
+      "LangGraph",
+      "vLLM",
+      "Sentence-Transformers",
+      "FastAPI"
+    ],
+    "submitted_at": "2025-11-07",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. In a previous engagement with a Fintech client (CS-ALEX-011), I built a similar solution where we Designed and delivered Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-132",
+    "job_title": "Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech",
+    "bid_amount": 3336.4,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-012"
+    ],
+    "skills": [
+      "PEFT",
+      "LangGraph",
+      "NumPy",
+      "Ollama",
+      "MLflow"
+    ],
+    "submitted_at": "2025-11-11",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. In a previous engagement with a HealthTech client (CS-ALEX-012), I built a similar solution where we Designed and delivered Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-133",
+    "job_title": "Customer Churn Prediction and Explainable ML Classification for E-Commerce",
+    "bid_amount": 3246.47,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-013"
+    ],
+    "skills": [
+      "PEFT",
+      "BM25",
+      "NumPy",
+      "Ollama",
+      "Sentence-Transformers"
+    ],
+    "submitted_at": "2025-11-15",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Customer Churn Prediction and Explainable ML Classification for E-Commerce. In a previous engagement with a E-Commerce client (CS-ALEX-013), I built a similar solution where we Designed and delivered Customer Churn Prediction and Explainable ML Classification for E-Commerce. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-134",
+    "job_title": "Document Entity Extraction and Fine-Tuning with LoRA for EdTech",
+    "bid_amount": 2294.1,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-014"
+    ],
+    "skills": [
+      "Ollama",
+      "PyTorch",
+      "Pinecone",
+      "ChromaDB",
+      "FastAPI"
+    ],
+    "submitted_at": "2025-11-19",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Document Entity Extraction and Fine-Tuning with LoRA for EdTech. In a previous engagement with a EdTech client (CS-ALEX-014), I built a similar solution where we Designed and delivered Document Entity Extraction and Fine-Tuning with LoRA for EdTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-135",
+    "job_title": "Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer",
+    "bid_amount": 2422.84,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-015"
+    ],
+    "skills": [
+      "RAG Architecture",
+      "BM25",
+      "Pinecone",
+      "vLLM",
+      "PEFT"
+    ],
+    "submitted_at": "2025-11-23",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. In a previous engagement with a Logistics client (CS-ALEX-015), I built a similar solution where we Designed and delivered Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-136",
+    "job_title": "Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team",
+    "bid_amount": 698.8,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-016"
+    ],
+    "skills": [
+      "PEFT",
+      "MLflow",
+      "LangChain",
+      "FastAPI",
+      "Ollama"
+    ],
+    "submitted_at": "2025-11-27",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. In a previous engagement with a SaaS Enterprise client (CS-ALEX-016), I built a similar solution where we Designed and delivered Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-137",
+    "job_title": "Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client",
+    "bid_amount": 3180.15,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-017"
+    ],
+    "skills": [
+      "FastAPI",
+      "RAG Architecture",
+      "Docker",
+      "ChromaDB",
+      "Qdrant"
+    ],
+    "submitted_at": "2025-12-01",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. In a previous engagement with a Cybersecurity client (CS-ALEX-017), I built a similar solution where we Designed and delivered Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-138",
+    "job_title": "Automated Content Tagging & Clustering Engine using Sentence-Transformers",
+    "bid_amount": 1922.79,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-018"
+    ],
+    "skills": [
+      "Pandas",
+      "scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "HuggingFace"
+    ],
+    "submitted_at": "2025-12-05",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Automated Content Tagging & Clustering Engine using Sentence-Transformers. In a previous engagement with a LegalTech client (CS-ALEX-018), I built a similar solution where we Designed and delivered Automated Content Tagging & Clustering Engine using Sentence-Transformers. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-139",
+    "job_title": "Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate",
+    "bid_amount": 2434.06,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-019"
+    ],
+    "skills": [
+      "LangGraph",
+      "Sentence-Transformers",
+      "Docker",
+      "LoRA",
+      "TensorFlow"
+    ],
+    "submitted_at": "2025-12-09",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. In a previous engagement with a Real Estate client (CS-ALEX-019), I built a similar solution where we Designed and delivered Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-140",
+    "job_title": "Voice Agent & Whisper Transcription Pipeline with FastAPI for Media",
+    "bid_amount": 1343.79,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-020"
+    ],
+    "skills": [
+      "LoRA",
+      "MLflow",
+      "Pandas",
+      "FastAPI",
+      "NumPy"
+    ],
+    "submitted_at": "2025-12-13",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. In a previous engagement with a Media client (CS-ALEX-020), I built a similar solution where we Designed and delivered Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-141",
+    "job_title": "Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base",
+    "bid_amount": 2531.07,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-001"
+    ],
+    "skills": [
+      "PEFT",
+      "HuggingFace",
+      "Python",
+      "FastAPI",
+      "Ollama"
+    ],
+    "submitted_at": "2025-12-17",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. In a previous engagement with a Fintech client (CS-ALEX-001), I built a similar solution where we Designed and delivered Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-142",
+    "job_title": "Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech",
+    "bid_amount": 2074.12,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-002"
+    ],
+    "skills": [
+      "HuggingFace",
+      "Sentence-Transformers",
+      "NumPy",
+      "TensorFlow",
+      "RAG Architecture"
+    ],
+    "submitted_at": "2025-12-21",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. In a previous engagement with a HealthTech client (CS-ALEX-002), I built a similar solution where we Designed and delivered Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-143",
+    "job_title": "Customer Churn Prediction and Explainable ML Classification for E-Commerce",
+    "bid_amount": 913.89,
+    "outcome": "replied",
+    "evidence_cited": [
+      "CS-ALEX-003"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "vLLM",
+      "Ollama",
+      "Pandas"
+    ],
+    "submitted_at": "2025-12-25",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Customer Churn Prediction and Explainable ML Classification for E-Commerce. In a previous engagement with a E-Commerce client (CS-ALEX-003), I built a similar solution where we Designed and delivered Customer Churn Prediction and Explainable ML Classification for E-Commerce. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-144",
+    "job_title": "Document Entity Extraction and Fine-Tuning with LoRA for EdTech",
+    "bid_amount": 2427.77,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-004"
+    ],
+    "skills": [
+      "NumPy",
+      "vLLM",
+      "BM25",
+      "PEFT",
+      "Docker"
+    ],
+    "submitted_at": "2025-12-29",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Document Entity Extraction and Fine-Tuning with LoRA for EdTech. In a previous engagement with a EdTech client (CS-ALEX-004), I built a similar solution where we Designed and delivered Document Entity Extraction and Fine-Tuning with LoRA for EdTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-145",
+    "job_title": "Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer",
+    "bid_amount": 1513.26,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-005"
+    ],
+    "skills": [
+      "RAG Architecture",
+      "FastAPI",
+      "Python",
+      "LangGraph",
+      "BM25"
+    ],
+    "submitted_at": "2026-01-02",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. In a previous engagement with a Logistics client (CS-ALEX-005), I built a similar solution where we Designed and delivered Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-146",
+    "job_title": "Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team",
+    "bid_amount": 2694.03,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-006"
+    ],
+    "skills": [
+      "FastAPI",
+      "LangChain",
+      "vLLM",
+      "Pinecone",
+      "HuggingFace"
+    ],
+    "submitted_at": "2026-01-06",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. In a previous engagement with a SaaS Enterprise client (CS-ALEX-006), I built a similar solution where we Designed and delivered Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-147",
+    "job_title": "Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client",
+    "bid_amount": 856.89,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-007"
+    ],
+    "skills": [
+      "HuggingFace",
+      "Qdrant",
+      "LoRA",
+      "FastAPI",
+      "PyTorch"
+    ],
+    "submitted_at": "2026-01-10",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. In a previous engagement with a Cybersecurity client (CS-ALEX-007), I built a similar solution where we Designed and delivered Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-148",
+    "job_title": "Automated Content Tagging & Clustering Engine using Sentence-Transformers",
+    "bid_amount": 2121.14,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-008"
+    ],
+    "skills": [
+      "HuggingFace",
+      "ChromaDB",
+      "TensorFlow",
+      "NumPy",
+      "Vector Databases"
+    ],
+    "submitted_at": "2026-01-14",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Automated Content Tagging & Clustering Engine using Sentence-Transformers. In a previous engagement with a LegalTech client (CS-ALEX-008), I built a similar solution where we Designed and delivered Automated Content Tagging & Clustering Engine using Sentence-Transformers. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-149",
+    "job_title": "Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate",
+    "bid_amount": 1599.44,
+    "outcome": "won",
+    "evidence_cited": [
+      "CS-ALEX-009"
+    ],
+    "skills": [
+      "RAG Architecture",
+      "vLLM",
+      "BM25",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "submitted_at": "2026-01-18",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. In a previous engagement with a Real Estate client (CS-ALEX-009), I built a similar solution where we Designed and delivered Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  },
+  {
+    "proposal_id": "PROP-ALEX-150",
+    "job_title": "Voice Agent & Whisper Transcription Pipeline with FastAPI for Media",
+    "bid_amount": 2967.92,
+    "outcome": "ignored",
+    "evidence_cited": [
+      "CS-ALEX-010"
+    ],
+    "skills": [
+      "TensorFlow",
+      "Ollama",
+      "HuggingFace",
+      "ChromaDB",
+      "FastAPI"
+    ],
+    "submitted_at": "2026-01-22",
+    "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. In a previous engagement with a Media client (CS-ALEX-010), I built a similar solution where we Designed and delivered Voice Agent & Whisper Transcription Pipeline with FastAPI for Media. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+  }
+]

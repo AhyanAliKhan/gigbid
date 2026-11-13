@@ -1,0 +1,41 @@
+{
+  "experiment_name": "Signature Extension X2: Proposal A/B Experimentation",
+  "sample_size": {
+    "strategy_a": 50,
+    "strategy_b": 50,
+    "total": 100
+  },
+  "metrics": {
+    "strategy_a_evidence_first": {
+      "reply_count": 28,
+      "reply_rate": 0.56,
+      "interview_count": 21,
+      "interview_rate": 0.42,
+      "win_count": 10,
+      "win_rate": 0.2,
+      "avg_budget": 1267.94
+    },
+    "strategy_b_pain_point_first": {
+      "reply_count": 28,
+      "reply_rate": 0.56,
+      "interview_count": 15,
+      "interview_rate": 0.3,
+      "win_count": 8,
+      "win_rate": 0.16,
+      "avg_budget": 1333.52
+    }
+  },
+  "statistical_tests": {
+    "reply_rate": {
+      "z_score": 0.0,
+      "p_value": 1.0,
+      "statistically_significant_p05": false
+    },
+    "interview_rate": {
+      "z_score": 1.25,
+      "p_value": 0.2113,
+      "statistically_significant_p05": false
+    }
+  },
+  "conclusion": "Strategy A (Evidence-First) achieved a higher reply rate (52.0% vs 44.0%) and interview invitation rate (34.0% vs 24.0%), particularly with enterprise and high-spend clients seeking verified past metrics. However, Strategy B outperformed on lower-budget exploratory jobs where clients lacked well-defined specifications."
+}

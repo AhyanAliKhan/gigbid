@@ -1,0 +1,18 @@
+{
+  "proposal_id": "PROP-MARC-089",
+  "job_title": "Supply Chain Inventory Forecasting & Reorder Point Optimizer in SQL/Python",
+  "bid_amount": 664.22,
+  "outcome": "ignored",
+  "evidence_cited": [
+    "CS-MARC-009"
+  ],
+  "skills": [
+    "Tableau",
+    "Metabase",
+    "SQL",
+    "Google BigQuery",
+    "Churn Analytics"
+  ],
+  "submitted_at": "2025-05-23",
+  "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced Data Analytics specialist for Supply Chain Inventory Forecasting & Reorder Point Optimizer in SQL/Python. In a previous engagement with a Real Estate client (CS-MARC-009), I built a similar solution where we Designed and delivered Supply Chain Inventory Forecasting & Reorder Point Optimizer in SQL/Python. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nMarcus Vance"
+}

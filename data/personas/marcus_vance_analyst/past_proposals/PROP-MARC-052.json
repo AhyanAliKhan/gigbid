@@ -1,0 +1,18 @@
+{
+  "proposal_id": "PROP-MARC-052",
+  "job_title": "Executive PowerBI Revenue and Churn Intelligence Dashboard for HealthTech",
+  "bid_amount": 2918.97,
+  "outcome": "won",
+  "evidence_cited": [
+    "CS-MARC-012"
+  ],
+  "skills": [
+    "Pandas",
+    "Google BigQuery",
+    "PowerBI",
+    "dbt",
+    "Churn Analytics"
+  ],
+  "submitted_at": "2024-12-26",
+  "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced Data Analytics specialist for Executive PowerBI Revenue and Churn Intelligence Dashboard for HealthTech. In a previous engagement with a HealthTech client (CS-MARC-012), I built a similar solution where we Designed and delivered Executive PowerBI Revenue and Churn Intelligence Dashboard for HealthTech. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nMarcus Vance"
+}

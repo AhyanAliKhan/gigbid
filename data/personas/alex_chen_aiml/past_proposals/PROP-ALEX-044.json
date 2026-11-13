@@ -1,0 +1,18 @@
+{
+  "proposal_id": "PROP-ALEX-044",
+  "job_title": "Document Entity Extraction and Fine-Tuning with LoRA for EdTech",
+  "bid_amount": 2329.71,
+  "outcome": "ignored",
+  "evidence_cited": [
+    "CS-ALEX-004"
+  ],
+  "skills": [
+    "NumPy",
+    "vLLM",
+    "BM25",
+    "PEFT",
+    "Docker"
+  ],
+  "submitted_at": "2024-11-24",
+  "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Document Entity Extraction and Fine-Tuning with LoRA for EdTech. In a previous engagement with a EdTech client (CS-ALEX-004), I built a similar solution where we Designed and delivered Document Entity Extraction and Fine-Tuning with LoRA for EdTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+}

@@ -1,0 +1,18 @@
+{
+  "proposal_id": "PROP-SARA-142",
+  "job_title": "Real-Time Multi-Tenant WebSockets Notification Service in Node.js & Redis",
+  "bid_amount": 2155.75,
+  "outcome": "won",
+  "evidence_cited": [
+    "CS-SARA-002"
+  ],
+  "skills": [
+    "REST APIs",
+    "FastAPI",
+    "Jest",
+    "WebSockets",
+    "Node.js"
+  ],
+  "submitted_at": "2025-12-21",
+  "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced Full-Stack Web specialist for Real-Time Multi-Tenant WebSockets Notification Service in Node.js & Redis. In a previous engagement with a HealthTech client (CS-SARA-002), I built a similar solution where we Designed and delivered Real-Time Multi-Tenant WebSockets Notification Service in Node.js & Redis. Successfully addressed client pain points around performance and reliability. Key metrics: Scaled frontend rendering to 60fps, reduced Lighthouse first contentful paint by 65%, supported 15,000 concurrent websocket connections.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nSarah Jenkins"
+}

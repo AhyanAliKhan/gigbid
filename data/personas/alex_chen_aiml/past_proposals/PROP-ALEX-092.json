@@ -1,0 +1,18 @@
+{
+  "proposal_id": "PROP-ALEX-092",
+  "job_title": "Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech",
+  "bid_amount": 1806.21,
+  "outcome": "ignored",
+  "evidence_cited": [
+    "CS-ALEX-012"
+  ],
+  "skills": [
+    "PEFT",
+    "LangGraph",
+    "NumPy",
+    "Ollama",
+    "MLflow"
+  ],
+  "submitted_at": "2025-06-04",
+  "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. In a previous engagement with a HealthTech client (CS-ALEX-012), I built a similar solution where we Designed and delivered Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+}

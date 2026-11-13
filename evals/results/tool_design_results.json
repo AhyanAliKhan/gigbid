@@ -1,0 +1,989 @@
+{
+  "fine_grained": {
+    "variant": "fine_grained",
+    "tool_selection_accuracy_pct": 80.0,
+    "argument_accuracy_pct": 70.0,
+    "avg_tokens_per_task": 1227.3,
+    "tasks_evaluated": 40,
+    "records": [
+      {
+        "task_id": "T01",
+        "task": "Find active Python and PyTorch jobs in the AI/ML category",
+        "target_tool": "search_jobs",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1263
+      },
+      {
+        "task_id": "T02",
+        "task": "Check details and required deliverables for job-0142",
+        "target_tool": "get_job",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1162
+      },
+      {
+        "task_id": "T03",
+        "task": "Retrieve full requirements and screening questions for job-0520",
+        "target_tool": "get_job",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1273
+      },
+      {
+        "task_id": "T04",
+        "task": "List recent web development postings with minimum budget $500",
+        "target_tool": "search_jobs",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1251
+      },
+      {
+        "task_id": "T05",
+        "task": "Inspect duration and connects cost for job-0089",
+        "target_tool": "get_job",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1155
+      },
+      {
+        "task_id": "T06",
+        "task": "Search jobs mentioning Snowflake and dbt transformations",
+        "target_tool": "search_jobs",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1243
+      },
+      {
+        "task_id": "T07",
+        "task": "Fetch job description for job-0911",
+        "target_tool": "get_job",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1239
+      },
+      {
+        "task_id": "T08",
+        "task": "Search React and TypeScript postings under Full-Stack Web",
+        "target_tool": "search_jobs",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1171
+      },
+      {
+        "task_id": "T09",
+        "task": "Examine budget and timeline for job-0315",
+        "target_tool": "get_job",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1306
+      },
+      {
+        "task_id": "T10",
+        "task": "Find LangGraph agentic workflow contract postings",
+        "target_tool": "search_jobs",
+        "tool_selected_correctly": true,
+        "arguments_accurate": false,
+        "tokens": 1171
+      },
+      {
+        "task_id": "T11",
+        "task": "Check client-042 total spend and historical hire rate",
+        "target_tool": "get_client_history",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1186
+      },
+      {
+        "task_id": "T12",
+        "task": "Check if client-019 has verified payment and positive reviews",
+        "target_tool": "get_client_history",
+        "tool_selected_correctly": false,
+        "arguments_accurate": false,
+        "tokens": 1191
+      },
+      {
+        "task_id": "T13",
+        "task": "Inspect freelancer Connects balance before spending 10 connects",
+        "target_tool": "get_connects_balance",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1254
+      },
+      {
+        "task_id": "T14",
+        "task": "Verify past feedback scores for client-077",
+        "target_tool": "get_client_history",
+        "tool_selected_correctly": true,
+        "arguments_accurate": false,
+        "tokens": 1217
+      },
+      {
+        "task_id": "T15",
+        "task": "Determine whether client-005 is an Enterprise tier client",
+        "target_tool": "get_client_history",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1196
+      },
+      {
+        "task_id": "T16",
+        "task": "Query available Connects balance for active profile",
+        "target_tool": "get_connects_balance",
+        "tool_selected_correctly": true,
+        "arguments_accurate": false,
+        "tokens": 1260
+      },
+      {
+        "task_id": "T17",
+        "task": "Look up total jobs posted and hire rate for client-112",
+        "target_tool": "get_client_history",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1247
+      },
+      {
+        "task_id": "T18",
+        "task": "Verify client payment verification status for client-033",
+        "target_tool": "get_client_history",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1269
+      },
+      {
+        "task_id": "T19",
+        "task": "Check remaining connects balance",
+        "target_tool": "get_connects_balance",
+        "tool_selected_correctly": false,
+        "arguments_accurate": false,
+        "tokens": 1120
+      },
+      {
+        "task_id": "T20",
+        "task": "Examine client reputation score for client-088",
+        "target_tool": "get_client_history",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1321
+      },
+      {
+        "task_id": "T21",
+        "task": "Find past project evidence demonstrating RAG with hybrid search",
+        "target_tool": "search_evidence",
+        "tool_selected_correctly": false,
+        "arguments_accurate": false,
+        "tokens": 1262
+      },
+      {
+        "task_id": "T22",
+        "task": "Load architecture and metrics for case study CS-ALEX-001",
+        "target_tool": "get_case_study",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1141
+      },
+      {
+        "task_id": "T23",
+        "task": "Search portfolio for verified Next.js and TailwindCSS experience",
+        "target_tool": "search_evidence",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1168
+      },
+      {
+        "task_id": "T24",
+        "task": "Retrieve full case study report for CS-SARA-005",
+        "target_tool": "get_case_study",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1118
+      },
+      {
+        "task_id": "T25",
+        "task": "List all verified technical skills for current persona",
+        "target_tool": "list_skills",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1286
+      },
+      {
+        "task_id": "T26",
+        "task": "Find portfolio evidence for Snowflake data warehouse modeling",
+        "target_tool": "search_evidence",
+        "tool_selected_correctly": false,
+        "arguments_accurate": false,
+        "tokens": 1169
+      },
+      {
+        "task_id": "T27",
+        "task": "Fetch details and metrics for case study CS-MARC-003",
+        "target_tool": "get_case_study",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1263
+      },
+      {
+        "task_id": "T28",
+        "task": "Search evidence for vLLM low-latency serving in Fintech",
+        "target_tool": "search_evidence",
+        "tool_selected_correctly": false,
+        "arguments_accurate": false,
+        "tokens": 1183
+      },
+      {
+        "task_id": "T29",
+        "task": "Inspect case study CS-ALEX-008",
+        "target_tool": "get_case_study",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1298
+      },
+      {
+        "task_id": "T30",
+        "task": "Find portfolio evidence for FastAPI microservice architecture",
+        "target_tool": "search_evidence",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1306
+      },
+      {
+        "task_id": "T31",
+        "task": "Find available 30-minute calendar slots for an interview this week",
+        "target_tool": "get_free_calendar_slots",
+        "tool_selected_correctly": false,
+        "arguments_accurate": false,
+        "tokens": 1154
+      },
+      {
+        "task_id": "T32",
+        "task": "Place tentative interview hold on calendar for 2026-11-15T15:00:00Z",
+        "target_tool": "create_tentative_interview_hold",
+        "tool_selected_correctly": false,
+        "arguments_accurate": false,
+        "tokens": 1245
+      },
+      {
+        "task_id": "T33",
+        "task": "List incoming messages in client thread thread-job-0042",
+        "target_tool": "list_messages",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1180
+      },
+      {
+        "task_id": "T34",
+        "task": "Check open calendar interview slots for the next 3 days",
+        "target_tool": "get_free_calendar_slots",
+        "tool_selected_correctly": false,
+        "arguments_accurate": false,
+        "tokens": 1326
+      },
+      {
+        "task_id": "T35",
+        "task": "Draft follow-up email to client regarding contract milestones",
+        "target_tool": "create_email_draft",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1217
+      },
+      {
+        "task_id": "T36",
+        "task": "Read latest client message from thread-job-0115",
+        "target_tool": "list_messages",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1290
+      },
+      {
+        "task_id": "T37",
+        "task": "Reserve calendar hold for technical interview with hiring manager",
+        "target_tool": "create_tentative_interview_hold",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1249
+      },
+      {
+        "task_id": "T38",
+        "task": "Check calendar slots for upcoming week",
+        "target_tool": "get_free_calendar_slots",
+        "tool_selected_correctly": true,
+        "arguments_accurate": false,
+        "tokens": 1192
+      },
+      {
+        "task_id": "T39",
+        "task": "Review message history in thread-job-0789",
+        "target_tool": "list_messages",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1230
+      },
+      {
+        "task_id": "T40",
+        "task": "Draft introductory email confirmation for interview call",
+        "target_tool": "create_email_draft",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 1320
+      }
+    ]
+  },
+  "coarse": {
+    "variant": "coarse",
+    "tool_selection_accuracy_pct": 90.0,
+    "argument_accuracy_pct": 60.0,
+    "avg_tokens_per_task": 556.5,
+    "tasks_evaluated": 40,
+    "records": [
+      {
+        "task_id": "T01",
+        "task": "Find active Python and PyTorch jobs in the AI/ML category",
+        "target_tool": "search_jobs",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 588
+      },
+      {
+        "task_id": "T02",
+        "task": "Check details and required deliverables for job-0142",
+        "target_tool": "get_job",
+        "tool_selected_correctly": true,
+        "arguments_accurate": false,
+        "tokens": 599
+      },
+      {
+        "task_id": "T03",
+        "task": "Retrieve full requirements and screening questions for job-0520",
+        "target_tool": "get_job",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 482
+      },
+      {
+        "task_id": "T04",
+        "task": "List recent web development postings with minimum budget $500",
+        "target_tool": "search_jobs",
+        "tool_selected_correctly": true,
+        "arguments_accurate": false,
+        "tokens": 617
+      },
+      {
+        "task_id": "T05",
+        "task": "Inspect duration and connects cost for job-0089",
+        "target_tool": "get_job",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 567
+      },
+      {
+        "task_id": "T06",
+        "task": "Search jobs mentioning Snowflake and dbt transformations",
+        "target_tool": "search_jobs",
+        "tool_selected_correctly": true,
+        "arguments_accurate": false,
+        "tokens": 596
+      },
+      {
+        "task_id": "T07",
+        "task": "Fetch job description for job-0911",
+        "target_tool": "get_job",
+        "tool_selected_correctly": false,
+        "arguments_accurate": false,
+        "tokens": 547
+      },
+      {
+        "task_id": "T08",
+        "task": "Search React and TypeScript postings under Full-Stack Web",
+        "target_tool": "search_jobs",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 525
+      },
+      {
+        "task_id": "T09",
+        "task": "Examine budget and timeline for job-0315",
+        "target_tool": "get_job",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 556
+      },
+      {
+        "task_id": "T10",
+        "task": "Find LangGraph agentic workflow contract postings",
+        "target_tool": "search_jobs",
+        "tool_selected_correctly": true,
+        "arguments_accurate": false,
+        "tokens": 530
+      },
+      {
+        "task_id": "T11",
+        "task": "Check client-042 total spend and historical hire rate",
+        "target_tool": "get_client_history",
+        "tool_selected_correctly": false,
+        "arguments_accurate": false,
+        "tokens": 618
+      },
+      {
+        "task_id": "T12",
+        "task": "Check if client-019 has verified payment and positive reviews",
+        "target_tool": "get_client_history",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 615
+      },
+      {
+        "task_id": "T13",
+        "task": "Inspect freelancer Connects balance before spending 10 connects",
+        "target_tool": "get_connects_balance",
+        "tool_selected_correctly": true,
+        "arguments_accurate": false,
+        "tokens": 605
+      },
+      {
+        "task_id": "T14",
+        "task": "Verify past feedback scores for client-077",
+        "target_tool": "get_client_history",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 558
+      },
+      {
+        "task_id": "T15",
+        "task": "Determine whether client-005 is an Enterprise tier client",
+        "target_tool": "get_client_history",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 500
+      },
+      {
+        "task_id": "T16",
+        "task": "Query available Connects balance for active profile",
+        "target_tool": "get_connects_balance",
+        "tool_selected_correctly": false,
+        "arguments_accurate": false,
+        "tokens": 497
+      },
+      {
+        "task_id": "T17",
+        "task": "Look up total jobs posted and hire rate for client-112",
+        "target_tool": "get_client_history",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 616
+      },
+      {
+        "task_id": "T18",
+        "task": "Verify client payment verification status for client-033",
+        "target_tool": "get_client_history",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 601
+      },
+      {
+        "task_id": "T19",
+        "task": "Check remaining connects balance",
+        "target_tool": "get_connects_balance",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 615
+      },
+      {
+        "task_id": "T20",
+        "task": "Examine client reputation score for client-088",
+        "target_tool": "get_client_history",
+        "tool_selected_correctly": true,
+        "arguments_accurate": false,
+        "tokens": 534
+      },
+      {
+        "task_id": "T21",
+        "task": "Find past project evidence demonstrating RAG with hybrid search",
+        "target_tool": "search_evidence",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 531
+      },
+      {
+        "task_id": "T22",
+        "task": "Load architecture and metrics for case study CS-ALEX-001",
+        "target_tool": "get_case_study",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 575
+      },
+      {
+        "task_id": "T23",
+        "task": "Search portfolio for verified Next.js and TailwindCSS experience",
+        "target_tool": "search_evidence",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 510
+      },
+      {
+        "task_id": "T24",
+        "task": "Retrieve full case study report for CS-SARA-005",
+        "target_tool": "get_case_study",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 485
+      },
+      {
+        "task_id": "T25",
+        "task": "List all verified technical skills for current persona",
+        "target_tool": "list_skills",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 536
+      },
+      {
+        "task_id": "T26",
+        "task": "Find portfolio evidence for Snowflake data warehouse modeling",
+        "target_tool": "search_evidence",
+        "tool_selected_correctly": true,
+        "arguments_accurate": false,
+        "tokens": 495
+      },
+      {
+        "task_id": "T27",
+        "task": "Fetch details and metrics for case study CS-MARC-003",
+        "target_tool": "get_case_study",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 564
+      },
+      {
+        "task_id": "T28",
+        "task": "Search evidence for vLLM low-latency serving in Fintech",
+        "target_tool": "search_evidence",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 604
+      },
+      {
+        "task_id": "T29",
+        "task": "Inspect case study CS-ALEX-008",
+        "target_tool": "get_case_study",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 601
+      },
+      {
+        "task_id": "T30",
+        "task": "Find portfolio evidence for FastAPI microservice architecture",
+        "target_tool": "search_evidence",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 584
+      },
+      {
+        "task_id": "T31",
+        "task": "Find available 30-minute calendar slots for an interview this week",
+        "target_tool": "get_free_calendar_slots",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 590
+      },
+      {
+        "task_id": "T32",
+        "task": "Place tentative interview hold on calendar for 2026-11-15T15:00:00Z",
+        "target_tool": "create_tentative_interview_hold",
+        "tool_selected_correctly": true,
+        "arguments_accurate": false,
+        "tokens": 493
+      },
+      {
+        "task_id": "T33",
+        "task": "List incoming messages in client thread thread-job-0042",
+        "target_tool": "list_messages",
+        "tool_selected_correctly": true,
+        "arguments_accurate": false,
+        "tokens": 505
+      },
+      {
+        "task_id": "T34",
+        "task": "Check open calendar interview slots for the next 3 days",
+        "target_tool": "get_free_calendar_slots",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 507
+      },
+      {
+        "task_id": "T35",
+        "task": "Draft follow-up email to client regarding contract milestones",
+        "target_tool": "create_email_draft",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 594
+      },
+      {
+        "task_id": "T36",
+        "task": "Read latest client message from thread-job-0115",
+        "target_tool": "list_messages",
+        "tool_selected_correctly": true,
+        "arguments_accurate": false,
+        "tokens": 598
+      },
+      {
+        "task_id": "T37",
+        "task": "Reserve calendar hold for technical interview with hiring manager",
+        "target_tool": "create_tentative_interview_hold",
+        "tool_selected_correctly": true,
+        "arguments_accurate": false,
+        "tokens": 593
+      },
+      {
+        "task_id": "T38",
+        "task": "Check calendar slots for upcoming week",
+        "target_tool": "get_free_calendar_slots",
+        "tool_selected_correctly": true,
+        "arguments_accurate": false,
+        "tokens": 505
+      },
+      {
+        "task_id": "T39",
+        "task": "Review message history in thread-job-0789",
+        "target_tool": "list_messages",
+        "tool_selected_correctly": false,
+        "arguments_accurate": false,
+        "tokens": 483
+      },
+      {
+        "task_id": "T40",
+        "task": "Draft introductory email confirmation for interview call",
+        "target_tool": "create_email_draft",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 540
+      }
+    ]
+  },
+  "optimized": {
+    "variant": "optimized",
+    "tool_selection_accuracy_pct": 100.0,
+    "argument_accuracy_pct": 95.0,
+    "avg_tokens_per_task": 778.9,
+    "tasks_evaluated": 40,
+    "records": [
+      {
+        "task_id": "T01",
+        "task": "Find active Python and PyTorch jobs in the AI/ML category",
+        "target_tool": "search_jobs",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 747
+      },
+      {
+        "task_id": "T02",
+        "task": "Check details and required deliverables for job-0142",
+        "target_tool": "get_job",
+        "tool_selected_correctly": true,
+        "arguments_accurate": false,
+        "tokens": 741
+      },
+      {
+        "task_id": "T03",
+        "task": "Retrieve full requirements and screening questions for job-0520",
+        "target_tool": "get_job",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 753
+      },
+      {
+        "task_id": "T04",
+        "task": "List recent web development postings with minimum budget $500",
+        "target_tool": "search_jobs",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 756
+      },
+      {
+        "task_id": "T05",
+        "task": "Inspect duration and connects cost for job-0089",
+        "target_tool": "get_job",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 820
+      },
+      {
+        "task_id": "T06",
+        "task": "Search jobs mentioning Snowflake and dbt transformations",
+        "target_tool": "search_jobs",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 739
+      },
+      {
+        "task_id": "T07",
+        "task": "Fetch job description for job-0911",
+        "target_tool": "get_job",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 727
+      },
+      {
+        "task_id": "T08",
+        "task": "Search React and TypeScript postings under Full-Stack Web",
+        "target_tool": "search_jobs",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 815
+      },
+      {
+        "task_id": "T09",
+        "task": "Examine budget and timeline for job-0315",
+        "target_tool": "get_job",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 781
+      },
+      {
+        "task_id": "T10",
+        "task": "Find LangGraph agentic workflow contract postings",
+        "target_tool": "search_jobs",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 740
+      },
+      {
+        "task_id": "T11",
+        "task": "Check client-042 total spend and historical hire rate",
+        "target_tool": "get_client_history",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 828
+      },
+      {
+        "task_id": "T12",
+        "task": "Check if client-019 has verified payment and positive reviews",
+        "target_tool": "get_client_history",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 806
+      },
+      {
+        "task_id": "T13",
+        "task": "Inspect freelancer Connects balance before spending 10 connects",
+        "target_tool": "get_connects_balance",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 840
+      },
+      {
+        "task_id": "T14",
+        "task": "Verify past feedback scores for client-077",
+        "target_tool": "get_client_history",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 796
+      },
+      {
+        "task_id": "T15",
+        "task": "Determine whether client-005 is an Enterprise tier client",
+        "target_tool": "get_client_history",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 804
+      },
+      {
+        "task_id": "T16",
+        "task": "Query available Connects balance for active profile",
+        "target_tool": "get_connects_balance",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 839
+      },
+      {
+        "task_id": "T17",
+        "task": "Look up total jobs posted and hire rate for client-112",
+        "target_tool": "get_client_history",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 760
+      },
+      {
+        "task_id": "T18",
+        "task": "Verify client payment verification status for client-033",
+        "target_tool": "get_client_history",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 805
+      },
+      {
+        "task_id": "T19",
+        "task": "Check remaining connects balance",
+        "target_tool": "get_connects_balance",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 838
+      },
+      {
+        "task_id": "T20",
+        "task": "Examine client reputation score for client-088",
+        "target_tool": "get_client_history",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 778
+      },
+      {
+        "task_id": "T21",
+        "task": "Find past project evidence demonstrating RAG with hybrid search",
+        "target_tool": "search_evidence",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 732
+      },
+      {
+        "task_id": "T22",
+        "task": "Load architecture and metrics for case study CS-ALEX-001",
+        "target_tool": "get_case_study",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 753
+      },
+      {
+        "task_id": "T23",
+        "task": "Search portfolio for verified Next.js and TailwindCSS experience",
+        "target_tool": "search_evidence",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 728
+      },
+      {
+        "task_id": "T24",
+        "task": "Retrieve full case study report for CS-SARA-005",
+        "target_tool": "get_case_study",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 740
+      },
+      {
+        "task_id": "T25",
+        "task": "List all verified technical skills for current persona",
+        "target_tool": "list_skills",
+        "tool_selected_correctly": true,
+        "arguments_accurate": false,
+        "tokens": 758
+      },
+      {
+        "task_id": "T26",
+        "task": "Find portfolio evidence for Snowflake data warehouse modeling",
+        "target_tool": "search_evidence",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 803
+      },
+      {
+        "task_id": "T27",
+        "task": "Fetch details and metrics for case study CS-MARC-003",
+        "target_tool": "get_case_study",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 790
+      },
+      {
+        "task_id": "T28",
+        "task": "Search evidence for vLLM low-latency serving in Fintech",
+        "target_tool": "search_evidence",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 840
+      },
+      {
+        "task_id": "T29",
+        "task": "Inspect case study CS-ALEX-008",
+        "target_tool": "get_case_study",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 833
+      },
+      {
+        "task_id": "T30",
+        "task": "Find portfolio evidence for FastAPI microservice architecture",
+        "target_tool": "search_evidence",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 754
+      },
+      {
+        "task_id": "T31",
+        "task": "Find available 30-minute calendar slots for an interview this week",
+        "target_tool": "get_free_calendar_slots",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 763
+      },
+      {
+        "task_id": "T32",
+        "task": "Place tentative interview hold on calendar for 2026-11-15T15:00:00Z",
+        "target_tool": "create_tentative_interview_hold",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 753
+      },
+      {
+        "task_id": "T33",
+        "task": "List incoming messages in client thread thread-job-0042",
+        "target_tool": "list_messages",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 836
+      },
+      {
+        "task_id": "T34",
+        "task": "Check open calendar interview slots for the next 3 days",
+        "target_tool": "get_free_calendar_slots",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 774
+      },
+      {
+        "task_id": "T35",
+        "task": "Draft follow-up email to client regarding contract milestones",
+        "target_tool": "create_email_draft",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 762
+      },
+      {
+        "task_id": "T36",
+        "task": "Read latest client message from thread-job-0115",
+        "target_tool": "list_messages",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 753
+      },
+      {
+        "task_id": "T37",
+        "task": "Reserve calendar hold for technical interview with hiring manager",
+        "target_tool": "create_tentative_interview_hold",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 810
+      },
+      {
+        "task_id": "T38",
+        "task": "Check calendar slots for upcoming week",
+        "target_tool": "get_free_calendar_slots",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 729
+      },
+      {
+        "task_id": "T39",
+        "task": "Review message history in thread-job-0789",
+        "target_tool": "list_messages",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 739
+      },
+      {
+        "task_id": "T40",
+        "task": "Draft introductory email confirmation for interview call",
+        "target_tool": "create_email_draft",
+        "tool_selected_correctly": true,
+        "arguments_accurate": true,
+        "tokens": 794
+      }
+    ]
+  }
+}

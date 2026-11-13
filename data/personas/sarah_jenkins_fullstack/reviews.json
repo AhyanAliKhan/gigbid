@@ -1,0 +1,122 @@
+[
+  {
+    "review_id": "REV-SARA-001",
+    "client_name": "Client_1 (US)",
+    "rating": 5.0,
+    "feedback": "Exceptional work! Sarah Jenkins understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "High-Throughput React & Next.js Analytics Dashboard for Fintech Platform",
+    "date": "2025-03-19"
+  },
+  {
+    "review_id": "REV-SARA-002",
+    "client_name": "Client_2 (UK)",
+    "rating": 5.0,
+    "feedback": "Exceptional work! Sarah Jenkins understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Real-Time Multi-Tenant WebSockets Notification Service in Node.js & Redis",
+    "date": "2025-04-06"
+  },
+  {
+    "review_id": "REV-SARA-003",
+    "client_name": "Client_3 (AU)",
+    "rating": 4.8,
+    "feedback": "Exceptional work! Sarah Jenkins understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Microservices REST API Architecture with FastAPI and PostgreSQL for E-Commerce",
+    "date": "2025-04-24"
+  },
+  {
+    "review_id": "REV-SARA-004",
+    "client_name": "Client_4 (UK)",
+    "rating": 4.9,
+    "feedback": "Exceptional work! Sarah Jenkins understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Design System Migration to TailwindCSS and Component Library for EdTech",
+    "date": "2025-05-12"
+  },
+  {
+    "review_id": "REV-SARA-005",
+    "client_name": "Client_5 (US)",
+    "rating": 4.9,
+    "feedback": "Exceptional work! Sarah Jenkins understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "End-to-End Automated Testing Infrastructure with Playwright & GitHub Actions",
+    "date": "2025-05-30"
+  },
+  {
+    "review_id": "REV-SARA-006",
+    "client_name": "Client_6 (UK)",
+    "rating": 4.9,
+    "feedback": "Exceptional work! Sarah Jenkins understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "GraphQL Federation Layer for Unified SaaS Enterprise Service Communication",
+    "date": "2025-06-17"
+  },
+  {
+    "review_id": "REV-SARA-007",
+    "client_name": "Client_7 (DE)",
+    "rating": 5.0,
+    "feedback": "Exceptional work! Sarah Jenkins understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Responsive Mobile-First Customer Portal with Next.js App Router for Cybersecurity",
+    "date": "2025-07-05"
+  },
+  {
+    "review_id": "REV-SARA-008",
+    "client_name": "Client_8 (UK)",
+    "rating": 4.9,
+    "feedback": "Exceptional work! Sarah Jenkins understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Stripe Payment Processing & Subscription Management Integration for LegalTech",
+    "date": "2025-07-23"
+  },
+  {
+    "review_id": "REV-SARA-009",
+    "client_name": "Client_9 (US)",
+    "rating": 5.0,
+    "feedback": "Exceptional work! Sarah Jenkins understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Role-Based Access Control (RBAC) and OAuth2 Authentication Service",
+    "date": "2025-08-10"
+  },
+  {
+    "review_id": "REV-SARA-010",
+    "client_name": "Client_10 (UK)",
+    "rating": 5.0,
+    "feedback": "Exceptional work! Sarah Jenkins understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "High-Concurrency Redis Caching & Database Query Optimization for Media",
+    "date": "2025-08-28"
+  },
+  {
+    "review_id": "REV-SARA-011",
+    "client_name": "Client_11 (US)",
+    "rating": 4.9,
+    "feedback": "Exceptional work! Sarah Jenkins understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "High-Throughput React & Next.js Analytics Dashboard for Fintech Platform",
+    "date": "2025-09-15"
+  },
+  {
+    "review_id": "REV-SARA-012",
+    "client_name": "Client_12 (DE)",
+    "rating": 4.9,
+    "feedback": "Exceptional work! Sarah Jenkins understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Real-Time Multi-Tenant WebSockets Notification Service in Node.js & Redis",
+    "date": "2025-10-03"
+  },
+  {
+    "review_id": "REV-SARA-013",
+    "client_name": "Client_13 (CA)",
+    "rating": 4.9,
+    "feedback": "Exceptional work! Sarah Jenkins understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Microservices REST API Architecture with FastAPI and PostgreSQL for E-Commerce",
+    "date": "2025-10-21"
+  },
+  {
+    "review_id": "REV-SARA-014",
+    "client_name": "Client_14 (UK)",
+    "rating": 4.8,
+    "feedback": "Exceptional work! Sarah Jenkins understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Design System Migration to TailwindCSS and Component Library for EdTech",
+    "date": "2025-11-08"
+  },
+  {
+    "review_id": "REV-SARA-015",
+    "client_name": "Client_15 (UK)",
+    "rating": 4.8,
+    "feedback": "Exceptional work! Sarah Jenkins understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "End-to-End Automated Testing Infrastructure with Playwright & GitHub Actions",
+    "date": "2025-11-26"
+  }
+]

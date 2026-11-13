@@ -1,0 +1,8 @@
+# sarah_jenkins_fullstack-core-toolkit
+
+Open source production-ready toolkit implementing modular patterns for Full-Stack Web workflows.
+
+## Features
+- Fully typed with unit test coverage >90%
+- Production hardened
+- MIT Licensed

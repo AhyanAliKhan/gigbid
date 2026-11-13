@@ -1,0 +1,4 @@
+Variant,Number of Tools,Tool Selection Accuracy (%),Argument Accuracy (%),Avg Tokens / Task
+Fine-Grained (Many Tools),14,80.0,70.0,1227.3
+Coarse (Monolithic),3,90.0,60.0,556.5
+Optimized (Shipped Design),8,100.0,95.0,778.9

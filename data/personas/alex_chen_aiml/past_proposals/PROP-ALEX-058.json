@@ -1,0 +1,18 @@
+{
+  "proposal_id": "PROP-ALEX-058",
+  "job_title": "Automated Content Tagging & Clustering Engine using Sentence-Transformers",
+  "bid_amount": 415.29,
+  "outcome": "won",
+  "evidence_cited": [
+    "CS-ALEX-018"
+  ],
+  "skills": [
+    "Pandas",
+    "scikit-learn",
+    "TensorFlow",
+    "PyTorch",
+    "HuggingFace"
+  ],
+  "submitted_at": "2025-01-19",
+  "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Automated Content Tagging & Clustering Engine using Sentence-Transformers. In a previous engagement with a LegalTech client (CS-ALEX-018), I built a similar solution where we Designed and delivered Automated Content Tagging & Clustering Engine using Sentence-Transformers. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+}

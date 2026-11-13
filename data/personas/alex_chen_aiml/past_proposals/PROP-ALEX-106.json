@@ -1,0 +1,18 @@
+{
+  "proposal_id": "PROP-ALEX-106",
+  "job_title": "Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team",
+  "bid_amount": 2474.46,
+  "outcome": "ignored",
+  "evidence_cited": [
+    "CS-ALEX-006"
+  ],
+  "skills": [
+    "FastAPI",
+    "LangChain",
+    "vLLM",
+    "Pinecone",
+    "HuggingFace"
+  ],
+  "submitted_at": "2025-07-30",
+  "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. In a previous engagement with a SaaS Enterprise client (CS-ALEX-006), I built a similar solution where we Designed and delivered Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+}

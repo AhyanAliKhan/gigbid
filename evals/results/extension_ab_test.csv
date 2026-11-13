@@ -1,0 +1,101 @@
+job_id,strategy,title,replied,interviewed,awarded,budget
+job-0001,A (Evidence-First),Daily Financial Reconciliation Report Automation v,True,True,True,2010.0
+job-0002,A (Evidence-First),Customer Lifetime Value (LTV) Predictive Segmentat,False,False,False,1141.0
+job-0003,A (Evidence-First),Deploy vLLM Inference Server on AWS EC2 GPU Instan,True,True,False,1017.0
+job-0004,A (Evidence-First),Deploy vLLM Inference Server on AWS EC2 GPU Instan,True,False,False,1622.0
+job-0005,A (Evidence-First),PostgreSQL Performance Tuning & Index Optimization,False,False,False,296.0
+job-0006,A (Evidence-First),GraphQL Gateway & Schema Stitching for Distributed,False,False,False,466.0
+job-0007,A (Evidence-First),Dockerize Multi-Service Full-Stack Application for,True,True,True,297.0
+job-0008,A (Evidence-First),Comprehensive End-to-End Test Suite with Playwrigh,False,False,False,1389.0
+job-0009,A (Evidence-First),Real-Time Collaboration Canvas with WebSockets & R,True,False,False,1647.0
+job-0010,A (Evidence-First),Build Advanced RAG Pipeline with Hybrid Search and,False,False,False,2763.0
+job-0011,A (Evidence-First),Voice Assistant Integration with Whisper and Local,False,False,False,2033.0
+job-0012,A (Evidence-First),LLM Fine-Tuning with Unsloth / LoRA on Custom Data,False,False,False,899.0
+job-0013,A (Evidence-First),Responsive Mobile-First E-Commerce Storefront in R,True,True,True,1721.0
+job-0014,A (Evidence-First),Computer Vision Object Detection Pipeline with YOL,True,True,False,560.0
+job-0015,A (Evidence-First),Marketing Attribution Multi-Touch Model in Python ,True,True,True,616.0
+job-0016,A (Evidence-First),Refactor Legacy Codebase to Modern TypeScript & Vi,True,False,False,1064.0
+job-0017,A (Evidence-First),Build ETL Pipeline from Salesforce to BigQuery usi,True,True,False,904.0
+job-0018,A (Evidence-First),Computer Vision Object Detection Pipeline with YOL,False,False,False,824.0
+job-0019,A (Evidence-First),Interactive Executive Business Dashboard in PowerB,False,False,False,2590.0
+job-0020,A (Evidence-First),Metabase KPI Dashboard Setup for Product Managemen,False,False,False,1828.0
+job-0021,A (Evidence-First),Build Advanced RAG Pipeline with Hybrid Search and,True,True,False,650.0
+job-0022,A (Evidence-First),Computer Vision Object Detection Pipeline with YOL,False,False,False,468.0
+job-0023,A (Evidence-First),Customer Lifetime Value (LTV) Predictive Segmentat,False,False,False,1668.0
+job-0024,A (Evidence-First),Computer Vision Object Detection Pipeline with YOL,True,True,False,462.0
+job-0025,A (Evidence-First),Statistical A/B Test Significance Analysis & Power,True,True,False,1591.0
+job-0026,A (Evidence-First),Deploy vLLM Inference Server on AWS EC2 GPU Instan,True,True,True,1806.0
+job-0027,A (Evidence-First),Real-Time Collaboration Canvas with WebSockets & R,True,True,True,1819.0
+job-0028,A (Evidence-First),Redis Caching Layer & Database Query Optimization,True,False,False,1600.0
+job-0029,A (Evidence-First),Metabase KPI Dashboard Setup for Product Managemen,False,False,False,1270.0
+job-0030,A (Evidence-First),Build ETL Pipeline from Salesforce to BigQuery usi,True,True,False,336.0
+job-0031,A (Evidence-First),Voice Assistant Integration with Whisper and Local,False,False,False,1056.0
+job-0032,A (Evidence-First),Interactive Executive Business Dashboard in PowerB,True,True,False,1919.0
+job-0033,A (Evidence-First),Customer Lifetime Value (LTV) Predictive Segmentat,True,True,True,2044.0
+job-0034,A (Evidence-First),Redis Caching Layer & Database Query Optimization,False,False,False,606.0
+job-0035,A (Evidence-First),Marketing Attribution Multi-Touch Model in Python ,False,False,False,2092.0
+job-0036,A (Evidence-First),Redis Caching Layer & Database Query Optimization,False,False,False,1397.0
+job-0037,A (Evidence-First),Real-Time Collaboration Canvas with WebSockets & R,True,False,False,1380.0
+job-0038,A (Evidence-First),Voice Assistant Integration with Whisper and Local,True,True,False,1281.0
+job-0039,A (Evidence-First),Semantic Search & Recommender Engine with Qdrant V,True,True,True,647.0
+job-0040,A (Evidence-First),[DUPLICATE] GraphQL Gateway & Schema Stitching for,True,False,False,890.0
+job-0041,A (Evidence-First),Customer Lifetime Value (LTV) Predictive Segmentat,True,False,False,1455.0
+job-0042,A (Evidence-First),Customer Lifetime Value (LTV) Predictive Segmentat,True,True,False,1021.0
+job-0043,A (Evidence-First),Refactor Legacy Codebase to Modern TypeScript & Vi,False,False,False,910.0
+job-0044,A (Evidence-First),LLM Fine-Tuning with Unsloth / LoRA on Custom Data,False,False,False,1253.0
+job-0045,A (Evidence-First),Deploy vLLM Inference Server on AWS EC2 GPU Instan,True,True,True,2306.0
+job-0046,A (Evidence-First),Agentic Workflow Implementation with LangGraph and,False,False,False,1736.0
+job-0047,A (Evidence-First),GraphQL Gateway & Schema Stitching for Distributed,True,True,True,906.0
+job-0048,A (Evidence-First),Computer Vision Object Detection Pipeline with YOL,False,False,False,1810.0
+job-0049,A (Evidence-First),Interactive Executive Business Dashboard in PowerB,True,True,False,191.0
+job-0050,A (Evidence-First),Semantic Search & Recommender Engine with Qdrant V,False,False,False,1140.0
+job-0051,B (Pain-Point-First),Comprehensive End-to-End Test Suite with Playwrigh,True,True,True,1040.0
+job-0052,B (Pain-Point-First),Metabase KPI Dashboard Setup for Product Managemen,True,True,True,551.0
+job-0053,B (Pain-Point-First),Tabular Customer Churn Prediction & Model Evaluati,True,True,False,1607.0
+job-0054,B (Pain-Point-First),FastAPI REST Microservice with PostgreSQL and Cele,True,True,True,723.0
+job-0055,B (Pain-Point-First),Redis Caching Layer & Database Query Optimization,True,True,False,739.0
+job-0056,B (Pain-Point-First),Document OCR & Information Extraction Pipeline wit,False,False,False,897.0
+job-0057,B (Pain-Point-First),Build ETL Pipeline from Salesforce to BigQuery usi,True,False,False,435.0
+job-0058,B (Pain-Point-First),LLM Fine-Tuning with Unsloth / LoRA on Custom Data,True,True,True,789.0
+job-0059,B (Pain-Point-First),Time-Series Sales Forecasting Model in PyTorch / P,True,True,True,1076.0
+job-0060,B (Pain-Point-First),Deploy vLLM Inference Server on AWS EC2 GPU Instan,False,False,False,557.0
+job-0061,B (Pain-Point-First),Agentic Workflow Implementation with LangGraph and,False,False,False,1715.0
+job-0062,B (Pain-Point-First),Refactor Legacy Codebase to Modern TypeScript & Vi,True,False,False,944.0
+job-0063,B (Pain-Point-First),Tabular Customer Churn Prediction & Model Evaluati,True,False,False,2301.0
+job-0064,B (Pain-Point-First),Voice Assistant Integration with Whisper and Local,False,False,False,1707.0
+job-0065,B (Pain-Point-First),Build Next.js 15 SaaS Dashboard with TailwindCSS &,False,False,False,1900.0
+job-0066,B (Pain-Point-First),Deploy vLLM Inference Server on AWS EC2 GPU Instan,False,False,False,800.0
+job-0067,B (Pain-Point-First),Real-Time Collaboration Canvas with WebSockets & R,True,False,False,1914.0
+job-0068,B (Pain-Point-First),Comprehensive End-to-End Test Suite with Playwrigh,True,False,False,550.0
+job-0069,B (Pain-Point-First),Time-Series Sales Forecasting Model in PyTorch / P,True,True,False,429.0
+job-0070,B (Pain-Point-First),Build Advanced RAG Pipeline with Hybrid Search and,True,False,False,659.0
+job-0071,B (Pain-Point-First),Time-Series Sales Forecasting Model in PyTorch / P,False,False,False,2679.0
+job-0072,B (Pain-Point-First),Semantic Search & Recommender Engine with Qdrant V,True,False,False,855.0
+job-0073,B (Pain-Point-First),Stripe Billing & Tiered Subscription Portal Integr,True,False,False,2282.0
+job-0074,B (Pain-Point-First),Real-Time Collaboration Canvas with WebSockets & R,True,True,True,1301.0
+job-0075,B (Pain-Point-First),Computer Vision Object Detection Pipeline with YOL,False,False,False,2205.0
+job-0076,B (Pain-Point-First),Comprehensive End-to-End Test Suite with Playwrigh,True,True,True,1630.0
+job-0077,B (Pain-Point-First),Design Snowflake Data Warehouse with dbt Transform,False,False,False,1872.0
+job-0078,B (Pain-Point-First),Marketing Attribution Multi-Touch Model in Python ,True,False,False,2299.0
+job-0079,B (Pain-Point-First),Agentic Workflow Implementation with LangGraph and,False,False,False,1890.0
+job-0080,B (Pain-Point-First),[DUPLICATE] Dockerize Multi-Service Full-Stack App,False,False,False,320.0
+job-0081,B (Pain-Point-First),Voice Assistant Integration with Whisper and Local,True,True,True,1392.0
+job-0082,B (Pain-Point-First),Voice Assistant Integration with Whisper and Local,True,True,False,1196.0
+job-0083,B (Pain-Point-First),Comprehensive End-to-End Test Suite with Playwrigh,True,False,False,694.0
+job-0084,B (Pain-Point-First),Agentic Workflow Implementation with LangGraph and,True,True,False,2285.0
+job-0085,B (Pain-Point-First),Deploy vLLM Inference Server on AWS EC2 GPU Instan,True,False,False,1048.0
+job-0086,B (Pain-Point-First),Interactive Executive Business Dashboard in PowerB,True,True,False,1928.0
+job-0087,B (Pain-Point-First),Agentic Workflow Implementation with LangGraph and,False,False,False,2409.0
+job-0088,B (Pain-Point-First),Real-Time Collaboration Canvas with WebSockets & R,True,False,False,230.0
+job-0089,B (Pain-Point-First),Dockerize Multi-Service Full-Stack Application for,True,True,False,1726.0
+job-0090,B (Pain-Point-First),Comprehensive End-to-End Test Suite with Playwrigh,False,False,False,2135.0
+job-0091,B (Pain-Point-First),Responsive Mobile-First E-Commerce Storefront in R,False,False,False,2447.0
+job-0092,B (Pain-Point-First),Time-Series Sales Forecasting Model in PyTorch / P,False,False,False,2342.0
+job-0093,B (Pain-Point-First),Refactor Legacy Codebase to Modern TypeScript & Vi,False,False,False,616.0
+job-0094,B (Pain-Point-First),PostgreSQL Performance Tuning & Index Optimization,False,False,False,599.0
+job-0095,B (Pain-Point-First),Build Next.js 15 SaaS Dashboard with TailwindCSS &,False,False,False,1045.0
+job-0096,B (Pain-Point-First),Responsive Mobile-First E-Commerce Storefront in R,True,False,False,500.0
+job-0097,B (Pain-Point-First),Real-Time Collaboration Canvas with WebSockets & R,False,False,False,1957.0
+job-0098,B (Pain-Point-First),GraphQL Gateway & Schema Stitching for Distributed,False,False,False,1186.0
+job-0099,B (Pain-Point-First),Design Snowflake Data Warehouse with dbt Transform,False,False,False,1222.0
+job-0100,B (Pain-Point-First),Redis Caching Layer & Database Query Optimization,False,False,False,1053.0

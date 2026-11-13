@@ -1,0 +1,46 @@
+{
+  "style_memory": {
+    "default_user": [
+      {
+        "rule_id": "style-001",
+        "rule": "Never include introductory greetings like 'I am passionate' or 'Dear Sir/Madam'.",
+        "evidence": "Promoted after user deleted greeting in 3 consecutive drafts.",
+        "occurrences": 3,
+        "promoted_at": "2026-11-01T10:00:00Z"
+      },
+      {
+        "rule_id": "style-002",
+        "rule": "Always cite past metrics with explicit percentage improvements before discussing timeline.",
+        "evidence": "Promoted from user edit diffs on technical proposals.",
+        "occurrences": 2,
+        "promoted_at": "2026-11-05T14:30:00Z"
+      }
+    ]
+  },
+  "outcome_memory": {
+    "AI/ML": [
+      {
+        "memory_id": "out-aiml-01",
+        "pattern": "Proposals citing low-latency inference benchmarks achieved 48% higher reply rate.",
+        "sample_size": 35,
+        "promoted_at": "2026-11-02T12:00:00Z"
+      }
+    ],
+    "Full-Stack Web": [
+      {
+        "memory_id": "out-fs-01",
+        "pattern": "Proposals providing live deployment links and test coverage metrics achieved 52% hire rate.",
+        "sample_size": 40,
+        "promoted_at": "2026-11-03T16:00:00Z"
+      }
+    ],
+    "Data Analytics": [
+      {
+        "memory_id": "out-da-01",
+        "pattern": "Proposals emphasizing automated ETL and Snowflake query cost reductions won 44% of bids.",
+        "sample_size": 38,
+        "promoted_at": "2026-11-04T11:00:00Z"
+      }
+    ]
+  }
+}

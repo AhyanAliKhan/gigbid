@@ -1,0 +1,188 @@
+{
+  "sample_size": 30,
+  "cohens_kappa": 0.907,
+  "exact_agreement_pct": 93.3,
+  "interpretation": "Almost Perfect Agreement (Landis & Koch standard: >0.80)",
+  "records": [
+    {
+      "item_id": "CALIB-01",
+      "human_rating": 3,
+      "llm_judge_rating": 3,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-02",
+      "human_rating": 3,
+      "llm_judge_rating": 3,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-03",
+      "human_rating": 4,
+      "llm_judge_rating": 4,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-04",
+      "human_rating": 5,
+      "llm_judge_rating": 5,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-05",
+      "human_rating": 2,
+      "llm_judge_rating": 2,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-06",
+      "human_rating": 4,
+      "llm_judge_rating": 4,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-07",
+      "human_rating": 3,
+      "llm_judge_rating": 3,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-08",
+      "human_rating": 5,
+      "llm_judge_rating": 5,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-09",
+      "human_rating": 4,
+      "llm_judge_rating": 4,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-10",
+      "human_rating": 2,
+      "llm_judge_rating": 1,
+      "match": false
+    },
+    {
+      "item_id": "CALIB-11",
+      "human_rating": 3,
+      "llm_judge_rating": 3,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-12",
+      "human_rating": 5,
+      "llm_judge_rating": 5,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-13",
+      "human_rating": 3,
+      "llm_judge_rating": 3,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-14",
+      "human_rating": 3,
+      "llm_judge_rating": 2,
+      "match": false
+    },
+    {
+      "item_id": "CALIB-15",
+      "human_rating": 4,
+      "llm_judge_rating": 4,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-16",
+      "human_rating": 5,
+      "llm_judge_rating": 5,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-17",
+      "human_rating": 3,
+      "llm_judge_rating": 3,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-18",
+      "human_rating": 4,
+      "llm_judge_rating": 4,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-19",
+      "human_rating": 3,
+      "llm_judge_rating": 3,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-20",
+      "human_rating": 5,
+      "llm_judge_rating": 5,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-21",
+      "human_rating": 4,
+      "llm_judge_rating": 4,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-22",
+      "human_rating": 3,
+      "llm_judge_rating": 3,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-23",
+      "human_rating": 3,
+      "llm_judge_rating": 3,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-24",
+      "human_rating": 5,
+      "llm_judge_rating": 5,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-25",
+      "human_rating": 2,
+      "llm_judge_rating": 2,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-26",
+      "human_rating": 3,
+      "llm_judge_rating": 3,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-27",
+      "human_rating": 4,
+      "llm_judge_rating": 4,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-28",
+      "human_rating": 5,
+      "llm_judge_rating": 5,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-29",
+      "human_rating": 3,
+      "llm_judge_rating": 3,
+      "match": true
+    },
+    {
+      "item_id": "CALIB-30",
+      "human_rating": 4,
+      "llm_judge_rating": 4,
+      "match": true
+    }
+  ]
+}

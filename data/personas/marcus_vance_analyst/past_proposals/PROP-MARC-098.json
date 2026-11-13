@@ -1,0 +1,18 @@
+{
+  "proposal_id": "PROP-MARC-098",
+  "job_title": "Automated Daily KPI Slack Reporting Bot using Airflow and Python",
+  "bid_amount": 324.6,
+  "outcome": "replied",
+  "evidence_cited": [
+    "CS-MARC-018"
+  ],
+  "skills": [
+    "Google BigQuery",
+    "Metabase",
+    "Pandas",
+    "Cohort Analysis",
+    "Statistical Testing"
+  ],
+  "submitted_at": "2025-06-28",
+  "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced Data Analytics specialist for Automated Daily KPI Slack Reporting Bot using Airflow and Python. In a previous engagement with a LegalTech client (CS-MARC-018), I built a similar solution where we Designed and delivered Automated Daily KPI Slack Reporting Bot using Airflow and Python. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nMarcus Vance"
+}

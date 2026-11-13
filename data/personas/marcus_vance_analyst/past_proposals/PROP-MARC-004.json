@@ -1,0 +1,18 @@
+{
+  "proposal_id": "PROP-MARC-004",
+  "job_title": "Tableau Customer Lifetime Value (LTV) Segmentation for EdTech Marketing",
+  "bid_amount": 2545.69,
+  "outcome": "ignored",
+  "evidence_cited": [
+    "CS-MARC-004"
+  ],
+  "skills": [
+    "Cohort Analysis",
+    "Airflow",
+    "SQL",
+    "Excel Modeling",
+    "Snowflake"
+  ],
+  "submitted_at": "2024-06-17",
+  "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced Data Analytics specialist for Tableau Customer Lifetime Value (LTV) Segmentation for EdTech Marketing. In a previous engagement with a EdTech client (CS-MARC-004), I built a similar solution where we Designed and delivered Tableau Customer Lifetime Value (LTV) Segmentation for EdTech Marketing. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nMarcus Vance"
+}

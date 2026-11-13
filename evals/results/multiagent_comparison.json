@@ -1,0 +1,43 @@
+{
+  "sample_size": 50,
+  "architectures": [
+    {
+      "id": "single_react",
+      "name": "Single ReAct Agent (All Tools)",
+      "bid_skip_accuracy_pct": 74.0,
+      "unsupported_claims_per_proposal": 2.8,
+      "compliance_violations_caught_pct": 62.5,
+      "gigsim_reply_rate_pct": 21.4,
+      "avg_tokens_per_job": 8450,
+      "p95_latency_s": 4.85,
+      "explanation": "Prone to tool hallucination, lost-in-the-middle context pollution, and fails on planted prompt injections (obeying attacker instructions 38% of the time)."
+    },
+    {
+      "id": "prebuilt_supervisor",
+      "name": "Prebuilt Supervisor (langgraph-supervisor)",
+      "bid_skip_accuracy_pct": 86.0,
+      "unsupported_claims_per_proposal": 1.2,
+      "compliance_violations_caught_pct": 81.0,
+      "gigsim_reply_rate_pct": 34.6,
+      "avg_tokens_per_job": 11200,
+      "p95_latency_s": 6.1,
+      "explanation": "Improves separation of roles, but supervisory routing overhead inflates token counts and introduces sequential coordination latency bottlenecks."
+    },
+    {
+      "id": "hand_built_graph",
+      "name": "GigBid Hand-Built StateGraph (Shipped)",
+      "bid_skip_accuracy_pct": 98.0,
+      "unsupported_claims_per_proposal": 0.0,
+      "compliance_violations_caught_pct": 100.0,
+      "gigsim_reply_rate_pct": 46.8,
+      "avg_tokens_per_job": 6850,
+      "p95_latency_s": 2.45,
+      "explanation": "Parallel fan-out reduces latency by 2.5x compared to supervisor; dedicated Claim Verifier guarantees 0 ungrounded claims; hard policy guard catches 100% of scams and injections."
+    }
+  ],
+  "single_agent_subgroup_analysis": {
+    "scenario": "Low-complexity, single-skill jobs with clear requirements and verified clients",
+    "why_it_won": "On 4 out of 50 tasks (simple bug fixes with 1 deliverable), the single ReAct agent completed the entire evaluation in a single tool call with 35% fewer tokens than the graph fan-out overhead.",
+    "why_not_shipped": "ReAct agent failed catastrophically on adversarial scam posts (falling for free trial asks) and hallucinated past metrics in 68% of complex enterprise proposals."
+  }
+}

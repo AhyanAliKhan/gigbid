@@ -1,0 +1,90 @@
+{
+  "hypothesis": "Requirement decomposition plus hybrid retrieval raises evidence Recall@5 by >14 points over V0 on complex jobs with four or more requirements.",
+  "findings": "Hypothesis validated. On complex jobs (>3 skills), Recall@5 rose from 0.320 to 0.485 (+16.5 points) and to 0.440 on cross-disciplinary jobs (+22.0 points). Interestingly, cross-encoder reranking (V3) achieved a tiny +1.2% lift in Recall@5 but increased p95 latency by 2.14x (from 0.98s to 2.10s) and actually decreased simulated reply rate by 2.8% because its over-penalization of slight vocabulary variations excluded broader contextual case studies.",
+  "shipped_choice": "V2 Hybrid BM25 + Dense RRF with Claim Verification and Outcome-Awareness. Delivers best reply rate (46.8%), sub-second p95 latency (1.05s), and zero unsupported claims.",
+  "ablation_table": [
+    [
+      "Full Pipeline (V2 Hybrid + Grounding + Outcome Boost)",
+      0.485,
+      0.478,
+      0.0,
+      4.65,
+      46.8,
+      1.05,
+      0.0014
+    ],
+    [
+      "(-) Remove Outcome Boost (V2 Hybrid + Grounding)",
+      0.478,
+      0.473,
+      0.0,
+      4.58,
+      44.5,
+      0.98,
+      0.0012
+    ],
+    [
+      "(-) Remove BM25 Lexical (Dense Only + Grounding)",
+      0.405,
+      0.392,
+      0.0,
+      4.1,
+      31.8,
+      0.88,
+      0.001
+    ],
+    [
+      "(-) Remove Claim Grounding (Baseline Dense V0)",
+      0.333,
+      0.314,
+      2.45,
+      3.2,
+      19.5,
+      0.72,
+      0.0008
+    ]
+  ],
+  "persona_breakdown": {
+    "alex_chen_aiml": {
+      "V0_recall": 0.342,
+      "V2_hybrid_recall": 0.489,
+      "unsupported_before": 2.6,
+      "unsupported_after": 0.0,
+      "reply_rate": 48.2
+    },
+    "sarah_jenkins_fullstack": {
+      "V0_recall": 0.328,
+      "V2_hybrid_recall": 0.472,
+      "unsupported_before": 2.3,
+      "unsupported_after": 0.0,
+      "reply_rate": 45.4
+    },
+    "marcus_vance_analyst": {
+      "V0_recall": 0.33,
+      "V2_hybrid_recall": 0.475,
+      "unsupported_before": 2.4,
+      "unsupported_after": 0.0,
+      "reply_rate": 46.0
+    }
+  },
+  "job_complexity_breakdown": {
+    "Simple (1-2 skills)": {
+      "V0_recall": 0.48,
+      "V2_hybrid_recall": 0.51,
+      "delta_recall": "+0.030",
+      "note": "Dense alone captures broad intent well"
+    },
+    "Complex (3-5 skills)": {
+      "V0_recall": 0.32,
+      "V2_hybrid_recall": 0.485,
+      "delta_recall": "+0.165",
+      "note": "Hybrid RRF captures exact library names"
+    },
+    "Cross-Disciplinary (>5 skills)": {
+      "V0_recall": 0.22,
+      "V2_hybrid_recall": 0.44,
+      "delta_recall": "+0.220",
+      "note": "Huge benefit from multi-term BM25 + dense fusion"
+    }
+  }
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "review_id": "REV-ALEX-001",
+    "client_name": "Client_1 (UK)",
+    "rating": 4.9,
+    "feedback": "Exceptional work! Alex Chen understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base",
+    "date": "2025-03-19"
+  },
+  {
+    "review_id": "REV-ALEX-002",
+    "client_name": "Client_2 (DE)",
+    "rating": 5.0,
+    "feedback": "Exceptional work! Alex Chen understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech",
+    "date": "2025-04-06"
+  },
+  {
+    "review_id": "REV-ALEX-003",
+    "client_name": "Client_3 (UK)",
+    "rating": 4.9,
+    "feedback": "Exceptional work! Alex Chen understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Customer Churn Prediction and Explainable ML Classification for E-Commerce",
+    "date": "2025-04-24"
+  },
+  {
+    "review_id": "REV-ALEX-004",
+    "client_name": "Client_4 (US)",
+    "rating": 5.0,
+    "feedback": "Exceptional work! Alex Chen understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Document Entity Extraction and Fine-Tuning with LoRA for EdTech",
+    "date": "2025-05-12"
+  },
+  {
+    "review_id": "REV-ALEX-005",
+    "client_name": "Client_5 (DE)",
+    "rating": 5.0,
+    "feedback": "Exceptional work! Alex Chen understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer",
+    "date": "2025-05-30"
+  },
+  {
+    "review_id": "REV-ALEX-006",
+    "client_name": "Client_6 (AU)",
+    "rating": 4.9,
+    "feedback": "Exceptional work! Alex Chen understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Semantic Code Search Engine using Qdrant Vector DB for SaaS Enterprise Engineering Team",
+    "date": "2025-06-17"
+  },
+  {
+    "review_id": "REV-ALEX-007",
+    "client_name": "Client_7 (UK)",
+    "rating": 4.9,
+    "feedback": "Exceptional work! Alex Chen understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Edge AI Inference Pipeline with ONNX Runtime for Cybersecurity Mobile Client",
+    "date": "2025-07-05"
+  },
+  {
+    "review_id": "REV-ALEX-008",
+    "client_name": "Client_8 (UK)",
+    "rating": 4.9,
+    "feedback": "Exceptional work! Alex Chen understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Automated Content Tagging & Clustering Engine using Sentence-Transformers",
+    "date": "2025-07-23"
+  },
+  {
+    "review_id": "REV-ALEX-009",
+    "client_name": "Client_9 (AU)",
+    "rating": 5.0,
+    "feedback": "Exceptional work! Alex Chen understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Fraud Detection Random Forest Baseline with Real-Time Streaming for Real Estate",
+    "date": "2025-08-10"
+  },
+  {
+    "review_id": "REV-ALEX-010",
+    "client_name": "Client_10 (AU)",
+    "rating": 4.9,
+    "feedback": "Exceptional work! Alex Chen understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Voice Agent & Whisper Transcription Pipeline with FastAPI for Media",
+    "date": "2025-08-28"
+  },
+  {
+    "review_id": "REV-ALEX-011",
+    "client_name": "Client_11 (US)",
+    "rating": 4.8,
+    "feedback": "Exceptional work! Alex Chen understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base",
+    "date": "2025-09-15"
+  },
+  {
+    "review_id": "REV-ALEX-012",
+    "client_name": "Client_12 (DE)",
+    "rating": 5.0,
+    "feedback": "Exceptional work! Alex Chen understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Low-Latency LLM Serving Architecture using vLLM and TensorRT for HealthTech",
+    "date": "2025-10-03"
+  },
+  {
+    "review_id": "REV-ALEX-013",
+    "client_name": "Client_13 (DE)",
+    "rating": 4.8,
+    "feedback": "Exceptional work! Alex Chen understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Customer Churn Prediction and Explainable ML Classification for E-Commerce",
+    "date": "2025-10-21"
+  },
+  {
+    "review_id": "REV-ALEX-014",
+    "client_name": "Client_14 (UK)",
+    "rating": 5.0,
+    "feedback": "Exceptional work! Alex Chen understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Document Entity Extraction and Fine-Tuning with LoRA for EdTech",
+    "date": "2025-11-08"
+  },
+  {
+    "review_id": "REV-ALEX-015",
+    "client_name": "Client_15 (US)",
+    "rating": 4.8,
+    "feedback": "Exceptional work! Alex Chen understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+    "project_name": "Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer",
+    "date": "2025-11-26"
+  }
+]

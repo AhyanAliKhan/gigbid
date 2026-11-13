@@ -1,0 +1,18 @@
+{
+  "proposal_id": "PROP-MARC-040",
+  "job_title": "Customer Feedback Sentiment and Categorization Dashboard for Media",
+  "bid_amount": 2149.34,
+  "outcome": "replied",
+  "evidence_cited": [
+    "CS-MARC-020"
+  ],
+  "skills": [
+    "Airflow",
+    "PostgreSQL",
+    "Excel Modeling",
+    "Google BigQuery",
+    "Snowflake"
+  ],
+  "submitted_at": "2024-11-08",
+  "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced Data Analytics specialist for Customer Feedback Sentiment and Categorization Dashboard for Media. In a previous engagement with a Media client (CS-MARC-020), I built a similar solution where we Designed and delivered Customer Feedback Sentiment and Categorization Dashboard for Media. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nMarcus Vance"
+}

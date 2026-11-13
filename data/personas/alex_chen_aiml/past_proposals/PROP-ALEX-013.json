@@ -1,0 +1,18 @@
+{
+  "proposal_id": "PROP-ALEX-013",
+  "job_title": "Customer Churn Prediction and Explainable ML Classification for E-Commerce",
+  "bid_amount": 2020.43,
+  "outcome": "replied",
+  "evidence_cited": [
+    "CS-ALEX-013"
+  ],
+  "skills": [
+    "PEFT",
+    "BM25",
+    "NumPy",
+    "Ollama",
+    "Sentence-Transformers"
+  ],
+  "submitted_at": "2024-07-23",
+  "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Customer Churn Prediction and Explainable ML Classification for E-Commerce. In a previous engagement with a E-Commerce client (CS-ALEX-013), I built a similar solution where we Designed and delivered Customer Churn Prediction and Explainable ML Classification for E-Commerce. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+}

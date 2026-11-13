@@ -1,0 +1,18 @@
+{
+  "proposal_id": "PROP-MARC-015",
+  "job_title": "PostgreSQL Query Optimization and Partitioning for 50M-row Logistics Database",
+  "bid_amount": 604.27,
+  "outcome": "replied",
+  "evidence_cited": [
+    "CS-MARC-015"
+  ],
+  "skills": [
+    "Airflow",
+    "Metabase",
+    "Python",
+    "Google BigQuery",
+    "ETL Pipelines"
+  ],
+  "submitted_at": "2024-07-31",
+  "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced Data Analytics specialist for PostgreSQL Query Optimization and Partitioning for 50M-row Logistics Database. In a previous engagement with a Logistics client (CS-MARC-015), I built a similar solution where we Designed and delivered PostgreSQL Query Optimization and Partitioning for 50M-row Logistics Database. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nMarcus Vance"
+}

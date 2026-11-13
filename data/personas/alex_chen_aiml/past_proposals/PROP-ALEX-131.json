@@ -1,0 +1,18 @@
+{
+  "proposal_id": "PROP-ALEX-131",
+  "job_title": "Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base",
+  "bid_amount": 1680.15,
+  "outcome": "won",
+  "evidence_cited": [
+    "CS-ALEX-011"
+  ],
+  "skills": [
+    "Qdrant",
+    "LangGraph",
+    "vLLM",
+    "Sentence-Transformers",
+    "FastAPI"
+  ],
+  "submitted_at": "2025-11-07",
+  "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. In a previous engagement with a Fintech client (CS-ALEX-011), I built a similar solution where we Designed and delivered Production RAG Pipeline with Hybrid Search for Fintech Enterprise Knowledge Base. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+}

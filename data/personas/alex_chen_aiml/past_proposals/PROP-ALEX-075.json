@@ -1,0 +1,18 @@
+{
+  "proposal_id": "PROP-ALEX-075",
+  "job_title": "Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer",
+  "bid_amount": 3262.44,
+  "outcome": "ignored",
+  "evidence_cited": [
+    "CS-ALEX-015"
+  ],
+  "skills": [
+    "RAG Architecture",
+    "BM25",
+    "Pinecone",
+    "vLLM",
+    "PEFT"
+  ],
+  "submitted_at": "2025-03-28",
+  "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced AI/ML specialist for Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. In a previous engagement with a Logistics client (CS-ALEX-015), I built a similar solution where we Designed and delivered Multi-Agent LangGraph Workflow for Automated Logistics Research Synthesizer. Successfully addressed client pain points around performance and reliability. Key metrics: Reduced inference latency by 48% (p95 dropped from 820ms to 425ms), improved Recall@5 by 22% over vanilla dense baseline.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nAlex Chen"
+}

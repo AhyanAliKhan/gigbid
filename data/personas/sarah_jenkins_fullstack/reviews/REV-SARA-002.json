@@ -1,0 +1,8 @@
+{
+  "review_id": "REV-SARA-002",
+  "client_name": "Client_2 (UK)",
+  "rating": 5.0,
+  "feedback": "Exceptional work! Sarah Jenkins understood our complex requirements immediately, delivered clean code ahead of deadline, and communicated proactively every day.",
+  "project_name": "Real-Time Multi-Tenant WebSockets Notification Service in Node.js & Redis",
+  "date": "2025-04-06"
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "repo_name": "alex_chen_aiml-core-toolkit",
+    "url": "https://github.com/freelancer-portfolio/alex_chen_aiml-core-toolkit",
+    "stars": 80,
+    "primary_language": "Python",
+    "description": "Open source production-ready toolkit implementing modular patterns for AI/ML workflows."
+  },
+  {
+    "repo_name": "alex_chen_aiml-pipeline-runner",
+    "url": "https://github.com/freelancer-portfolio/alex_chen_aiml-pipeline-runner",
+    "stars": 99,
+    "primary_language": "Python",
+    "description": "Open source production-ready toolkit implementing modular patterns for AI/ML workflows."
+  },
+  {
+    "repo_name": "alex_chen_aiml-benchmark-suite",
+    "url": "https://github.com/freelancer-portfolio/alex_chen_aiml-benchmark-suite",
+    "stars": 40,
+    "primary_language": "Python",
+    "description": "Open source production-ready toolkit implementing modular patterns for AI/ML workflows."
+  },
+  {
+    "repo_name": "alex_chen_aiml-sdk-client",
+    "url": "https://github.com/freelancer-portfolio/alex_chen_aiml-sdk-client",
+    "stars": 87,
+    "primary_language": "Python",
+    "description": "Open source production-ready toolkit implementing modular patterns for AI/ML workflows."
+  },
+  {
+    "repo_name": "alex_chen_aiml-demo-app",
+    "url": "https://github.com/freelancer-portfolio/alex_chen_aiml-demo-app",
+    "stars": 123,
+    "primary_language": "Python",
+    "description": "Open source production-ready toolkit implementing modular patterns for AI/ML workflows."
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "proposal_id": "PROP-SARA-087",
+  "job_title": "Responsive Mobile-First Customer Portal with Next.js App Router for Cybersecurity",
+  "bid_amount": 417.43,
+  "outcome": "ignored",
+  "evidence_cited": [
+    "CS-SARA-007"
+  ],
+  "skills": [
+    "REST APIs",
+    "JavaScript",
+    "Playwright",
+    "Python",
+    "Next.js"
+  ],
+  "submitted_at": "2025-05-15",
+  "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced Full-Stack Web specialist for Responsive Mobile-First Customer Portal with Next.js App Router for Cybersecurity. In a previous engagement with a Cybersecurity client (CS-SARA-007), I built a similar solution where we Designed and delivered Responsive Mobile-First Customer Portal with Next.js App Router for Cybersecurity. Successfully addressed client pain points around performance and reliability. Key metrics: Scaled frontend rendering to 60fps, reduced Lighthouse first contentful paint by 65%, supported 15,000 concurrent websocket connections.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nSarah Jenkins"
+}

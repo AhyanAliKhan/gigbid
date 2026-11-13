@@ -1,0 +1,18 @@
+{
+  "proposal_id": "PROP-SARA-011",
+  "job_title": "High-Throughput React & Next.js Analytics Dashboard for Fintech Platform",
+  "bid_amount": 2183.28,
+  "outcome": "won",
+  "evidence_cited": [
+    "CS-SARA-011"
+  ],
+  "skills": [
+    "React",
+    "Prisma",
+    "Python",
+    "PostgreSQL",
+    "Redis"
+  ],
+  "submitted_at": "2024-07-15",
+  "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced Full-Stack Web specialist for High-Throughput React & Next.js Analytics Dashboard for Fintech Platform. In a previous engagement with a Fintech client (CS-SARA-011), I built a similar solution where we Designed and delivered High-Throughput React & Next.js Analytics Dashboard for Fintech Platform. Successfully addressed client pain points around performance and reliability. Key metrics: Scaled frontend rendering to 60fps, reduced Lighthouse first contentful paint by 65%, supported 15,000 concurrent websocket connections.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nSarah Jenkins"
+}

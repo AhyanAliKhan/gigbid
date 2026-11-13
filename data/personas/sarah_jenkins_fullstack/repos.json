@@ -1,0 +1,37 @@
+[
+  {
+    "repo_name": "sarah_jenkins_fullstack-core-toolkit",
+    "url": "https://github.com/freelancer-portfolio/sarah_jenkins_fullstack-core-toolkit",
+    "stars": 25,
+    "primary_language": "TypeScript",
+    "description": "Open source production-ready toolkit implementing modular patterns for Full-Stack Web workflows."
+  },
+  {
+    "repo_name": "sarah_jenkins_fullstack-pipeline-runner",
+    "url": "https://github.com/freelancer-portfolio/sarah_jenkins_fullstack-pipeline-runner",
+    "stars": 101,
+    "primary_language": "TypeScript",
+    "description": "Open source production-ready toolkit implementing modular patterns for Full-Stack Web workflows."
+  },
+  {
+    "repo_name": "sarah_jenkins_fullstack-benchmark-suite",
+    "url": "https://github.com/freelancer-portfolio/sarah_jenkins_fullstack-benchmark-suite",
+    "stars": 69,
+    "primary_language": "TypeScript",
+    "description": "Open source production-ready toolkit implementing modular patterns for Full-Stack Web workflows."
+  },
+  {
+    "repo_name": "sarah_jenkins_fullstack-sdk-client",
+    "url": "https://github.com/freelancer-portfolio/sarah_jenkins_fullstack-sdk-client",
+    "stars": 29,
+    "primary_language": "TypeScript",
+    "description": "Open source production-ready toolkit implementing modular patterns for Full-Stack Web workflows."
+  },
+  {
+    "repo_name": "sarah_jenkins_fullstack-demo-app",
+    "url": "https://github.com/freelancer-portfolio/sarah_jenkins_fullstack-demo-app",
+    "stars": 22,
+    "primary_language": "TypeScript",
+    "description": "Open source production-ready toolkit implementing modular patterns for Full-Stack Web workflows."
+  }
+]

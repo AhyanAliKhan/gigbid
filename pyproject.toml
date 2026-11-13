@@ -1,0 +1,33 @@
+[project]
+name = "gigbid"
+version = "1.0.0"
+description = "GigBid - Autonomous Multi-Agent Freelancer Copilot for AI-4016"
+requires-python = ">=3.10"
+dependencies = [
+  "fastapi",
+  "uvicorn[standard]",
+  "pydantic",
+  "pyyaml",
+  "langgraph",
+  "langchain",
+  "langchain-mcp-adapters",
+  "mcp",
+  "httpx",
+  "python-dotenv",
+  "rank-bm25",
+  "scikit-learn",
+  "scipy",
+  "reportlab",
+  "pypdf"
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "pytest-asyncio", "ruff", "mypy"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100

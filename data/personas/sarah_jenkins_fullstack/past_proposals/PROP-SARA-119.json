@@ -1,0 +1,18 @@
+{
+  "proposal_id": "PROP-SARA-119",
+  "job_title": "Role-Based Access Control (RBAC) and OAuth2 Authentication Service",
+  "bid_amount": 2372.67,
+  "outcome": "won",
+  "evidence_cited": [
+    "CS-SARA-019"
+  ],
+  "skills": [
+    "PostgreSQL",
+    "AWS",
+    "Redis",
+    "FastAPI",
+    "REST APIs"
+  ],
+  "submitted_at": "2025-09-20",
+  "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced Full-Stack Web specialist for Role-Based Access Control (RBAC) and OAuth2 Authentication Service. In a previous engagement with a Real Estate client (CS-SARA-019), I built a similar solution where we Designed and delivered Role-Based Access Control (RBAC) and OAuth2 Authentication Service. Successfully addressed client pain points around performance and reliability. Key metrics: Scaled frontend rendering to 60fps, reduced Lighthouse first contentful paint by 65%, supported 15,000 concurrent websocket connections.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nSarah Jenkins"
+}

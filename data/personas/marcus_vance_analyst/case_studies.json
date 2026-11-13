@@ -1,0 +1,342 @@
+[
+  {
+    "id": "CS-MARC-001",
+    "title": "Snowflake & dbt Enterprise Data Warehouse Modeling for Fintech",
+    "client_industry": "Fintech",
+    "skills": [
+      "Python",
+      "Pandas",
+      "Statistical Testing",
+      "dbt",
+      "ETL Pipelines"
+    ],
+    "timeline": "5 weeks",
+    "budget_usd": 1557,
+    "summary": "Designed and delivered Snowflake & dbt Enterprise Data Warehouse Modeling for Fintech. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-01-31"
+  },
+  {
+    "id": "CS-MARC-002",
+    "title": "Executive PowerBI Revenue and Churn Intelligence Dashboard for HealthTech",
+    "client_industry": "HealthTech",
+    "skills": [
+      "Looker",
+      "Google BigQuery",
+      "Statistical Testing",
+      "Python",
+      "Churn Analytics"
+    ],
+    "timeline": "3 weeks",
+    "budget_usd": 5257,
+    "summary": "Designed and delivered Executive PowerBI Revenue and Churn Intelligence Dashboard for HealthTech. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-03-02"
+  },
+  {
+    "id": "CS-MARC-003",
+    "title": "Automated Financial Reconciliation & Cohort Retention Engine in Python",
+    "client_industry": "E-Commerce",
+    "skills": [
+      "PostgreSQL",
+      "PowerBI",
+      "Looker",
+      "ETL Pipelines",
+      "Churn Analytics"
+    ],
+    "timeline": "5 weeks",
+    "budget_usd": 2016,
+    "summary": "Designed and delivered Automated Financial Reconciliation & Cohort Retention Engine in Python. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-04-01"
+  },
+  {
+    "id": "CS-MARC-004",
+    "title": "Tableau Customer Lifetime Value (LTV) Segmentation for EdTech Marketing",
+    "client_industry": "EdTech",
+    "skills": [
+      "Cohort Analysis",
+      "Airflow",
+      "SQL",
+      "Excel Modeling",
+      "Snowflake"
+    ],
+    "timeline": "5 weeks",
+    "budget_usd": 2464,
+    "summary": "Designed and delivered Tableau Customer Lifetime Value (LTV) Segmentation for EdTech Marketing. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-05-01"
+  },
+  {
+    "id": "CS-MARC-005",
+    "title": "PostgreSQL Query Optimization and Partitioning for 50M-row Logistics Database",
+    "client_industry": "Logistics",
+    "skills": [
+      "Snowflake",
+      "Google BigQuery",
+      "NumPy",
+      "Tableau",
+      "Metabase"
+    ],
+    "timeline": "5 weeks",
+    "budget_usd": 1857,
+    "summary": "Designed and delivered PostgreSQL Query Optimization and Partitioning for 50M-row Logistics Database. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-05-31"
+  },
+  {
+    "id": "CS-MARC-006",
+    "title": "Google BigQuery to Looker Real-Time BI Pipeline for SaaS Enterprise Leadership",
+    "client_industry": "SaaS Enterprise",
+    "skills": [
+      "Looker",
+      "Statistical Testing",
+      "Churn Analytics",
+      "Google BigQuery",
+      "Excel Modeling"
+    ],
+    "timeline": "5 weeks",
+    "budget_usd": 5632,
+    "summary": "Designed and delivered Google BigQuery to Looker Real-Time BI Pipeline for SaaS Enterprise Leadership. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-06-30"
+  },
+  {
+    "id": "CS-MARC-007",
+    "title": "Statistical A/B Test Evaluation Framework and Power Calculation Engine",
+    "client_industry": "Cybersecurity",
+    "skills": [
+      "PostgreSQL",
+      "Snowflake",
+      "Pandas",
+      "Looker",
+      "Airflow"
+    ],
+    "timeline": "4 weeks",
+    "budget_usd": 3063,
+    "summary": "Designed and delivered Statistical A/B Test Evaluation Framework and Power Calculation Engine. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-07-30"
+  },
+  {
+    "id": "CS-MARC-008",
+    "title": "Automated Daily KPI Slack Reporting Bot using Airflow and Python",
+    "client_industry": "LegalTech",
+    "skills": [
+      "Snowflake",
+      "ETL Pipelines",
+      "dbt",
+      "Statistical Testing",
+      "Looker"
+    ],
+    "timeline": "2 weeks",
+    "budget_usd": 4834,
+    "summary": "Designed and delivered Automated Daily KPI Slack Reporting Bot using Airflow and Python. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-08-29"
+  },
+  {
+    "id": "CS-MARC-009",
+    "title": "Supply Chain Inventory Forecasting & Reorder Point Optimizer in SQL/Python",
+    "client_industry": "Real Estate",
+    "skills": [
+      "Tableau",
+      "Metabase",
+      "SQL",
+      "Google BigQuery",
+      "Churn Analytics"
+    ],
+    "timeline": "2 weeks",
+    "budget_usd": 3603,
+    "summary": "Designed and delivered Supply Chain Inventory Forecasting & Reorder Point Optimizer in SQL/Python. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-09-28"
+  },
+  {
+    "id": "CS-MARC-010",
+    "title": "Customer Feedback Sentiment and Categorization Dashboard for Media",
+    "client_industry": "Media",
+    "skills": [
+      "Excel Modeling",
+      "Churn Analytics",
+      "ETL Pipelines",
+      "Snowflake",
+      "dbt"
+    ],
+    "timeline": "6 weeks",
+    "budget_usd": 4575,
+    "summary": "Designed and delivered Customer Feedback Sentiment and Categorization Dashboard for Media. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-10-28"
+  },
+  {
+    "id": "CS-MARC-011",
+    "title": "Snowflake & dbt Enterprise Data Warehouse Modeling for Fintech",
+    "client_industry": "Fintech",
+    "skills": [
+      "Tableau",
+      "Churn Analytics",
+      "Cohort Analysis",
+      "PostgreSQL",
+      "Metabase"
+    ],
+    "timeline": "5 weeks",
+    "budget_usd": 6276,
+    "summary": "Designed and delivered Snowflake & dbt Enterprise Data Warehouse Modeling for Fintech. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-11-27"
+  },
+  {
+    "id": "CS-MARC-012",
+    "title": "Executive PowerBI Revenue and Churn Intelligence Dashboard for HealthTech",
+    "client_industry": "HealthTech",
+    "skills": [
+      "Pandas",
+      "Google BigQuery",
+      "PowerBI",
+      "dbt",
+      "Churn Analytics"
+    ],
+    "timeline": "4 weeks",
+    "budget_usd": 4964,
+    "summary": "Designed and delivered Executive PowerBI Revenue and Churn Intelligence Dashboard for HealthTech. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-12-27"
+  },
+  {
+    "id": "CS-MARC-013",
+    "title": "Automated Financial Reconciliation & Cohort Retention Engine in Python",
+    "client_industry": "E-Commerce",
+    "skills": [
+      "NumPy",
+      "SQL",
+      "Airflow",
+      "Google BigQuery",
+      "PowerBI"
+    ],
+    "timeline": "6 weeks",
+    "budget_usd": 2494,
+    "summary": "Designed and delivered Automated Financial Reconciliation & Cohort Retention Engine in Python. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2026-01-26"
+  },
+  {
+    "id": "CS-MARC-014",
+    "title": "Tableau Customer Lifetime Value (LTV) Segmentation for EdTech Marketing",
+    "client_industry": "EdTech",
+    "skills": [
+      "Snowflake",
+      "Airflow",
+      "Excel Modeling",
+      "Metabase",
+      "PowerBI"
+    ],
+    "timeline": "5 weeks",
+    "budget_usd": 3248,
+    "summary": "Designed and delivered Tableau Customer Lifetime Value (LTV) Segmentation for EdTech Marketing. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2026-02-25"
+  },
+  {
+    "id": "CS-MARC-015",
+    "title": "PostgreSQL Query Optimization and Partitioning for 50M-row Logistics Database",
+    "client_industry": "Logistics",
+    "skills": [
+      "Airflow",
+      "Metabase",
+      "Python",
+      "Google BigQuery",
+      "ETL Pipelines"
+    ],
+    "timeline": "5 weeks",
+    "budget_usd": 2073,
+    "summary": "Designed and delivered PostgreSQL Query Optimization and Partitioning for 50M-row Logistics Database. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2026-03-27"
+  },
+  {
+    "id": "CS-MARC-016",
+    "title": "Google BigQuery to Looker Real-Time BI Pipeline for SaaS Enterprise Leadership",
+    "client_industry": "SaaS Enterprise",
+    "skills": [
+      "Pandas",
+      "Statistical Testing",
+      "Excel Modeling",
+      "Metabase",
+      "PowerBI"
+    ],
+    "timeline": "4 weeks",
+    "budget_usd": 1379,
+    "summary": "Designed and delivered Google BigQuery to Looker Real-Time BI Pipeline for SaaS Enterprise Leadership. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2026-04-26"
+  },
+  {
+    "id": "CS-MARC-017",
+    "title": "Statistical A/B Test Evaluation Framework and Power Calculation Engine",
+    "client_industry": "Cybersecurity",
+    "skills": [
+      "Statistical Testing",
+      "NumPy",
+      "SQL",
+      "Metabase",
+      "ETL Pipelines"
+    ],
+    "timeline": "2 weeks",
+    "budget_usd": 6167,
+    "summary": "Designed and delivered Statistical A/B Test Evaluation Framework and Power Calculation Engine. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "CS-MARC-018",
+    "title": "Automated Daily KPI Slack Reporting Bot using Airflow and Python",
+    "client_industry": "LegalTech",
+    "skills": [
+      "Google BigQuery",
+      "Metabase",
+      "Pandas",
+      "Cohort Analysis",
+      "Statistical Testing"
+    ],
+    "timeline": "4 weeks",
+    "budget_usd": 2994,
+    "summary": "Designed and delivered Automated Daily KPI Slack Reporting Bot using Airflow and Python. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2026-06-25"
+  },
+  {
+    "id": "CS-MARC-019",
+    "title": "Supply Chain Inventory Forecasting & Reorder Point Optimizer in SQL/Python",
+    "client_industry": "Real Estate",
+    "skills": [
+      "Python",
+      "NumPy",
+      "PowerBI",
+      "Looker",
+      "PostgreSQL"
+    ],
+    "timeline": "2 weeks",
+    "budget_usd": 3730,
+    "summary": "Designed and delivered Supply Chain Inventory Forecasting & Reorder Point Optimizer in SQL/Python. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2026-07-25"
+  },
+  {
+    "id": "CS-MARC-020",
+    "title": "Customer Feedback Sentiment and Categorization Dashboard for Media",
+    "client_industry": "Media",
+    "skills": [
+      "Airflow",
+      "PostgreSQL",
+      "Excel Modeling",
+      "Google BigQuery",
+      "Snowflake"
+    ],
+    "timeline": "2 weeks",
+    "budget_usd": 3617,
+    "summary": "Designed and delivered Customer Feedback Sentiment and Categorization Dashboard for Media. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2026-08-24"
+  }
+]

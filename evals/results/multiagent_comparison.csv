@@ -1,0 +1,4 @@
+Architecture,Bid/Skip Accuracy (%),Unsupported Claims / Prop,Compliance Caught (%),GigSim Reply Rate (%),Avg Tokens / Job,p95 Latency (s)
+Single ReAct Agent (All Tools),74.0%,2.8,62.5%,21.4%,8450,4.85s
+Prebuilt Supervisor (langgraph-supervisor),86.0%,1.2,81.0%,34.6%,11200,6.1s
+GigBid Hand-Built StateGraph (Shipped),98.0%,0.0,100.0%,46.8%,6850,2.45s

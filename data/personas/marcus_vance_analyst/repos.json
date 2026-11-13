@@ -1,0 +1,37 @@
+[
+  {
+    "repo_name": "marcus_vance_analyst-core-toolkit",
+    "url": "https://github.com/freelancer-portfolio/marcus_vance_analyst-core-toolkit",
+    "stars": 95,
+    "primary_language": "Python",
+    "description": "Open source production-ready toolkit implementing modular patterns for Data Analytics workflows."
+  },
+  {
+    "repo_name": "marcus_vance_analyst-pipeline-runner",
+    "url": "https://github.com/freelancer-portfolio/marcus_vance_analyst-pipeline-runner",
+    "stars": 118,
+    "primary_language": "Python",
+    "description": "Open source production-ready toolkit implementing modular patterns for Data Analytics workflows."
+  },
+  {
+    "repo_name": "marcus_vance_analyst-benchmark-suite",
+    "url": "https://github.com/freelancer-portfolio/marcus_vance_analyst-benchmark-suite",
+    "stars": 56,
+    "primary_language": "Python",
+    "description": "Open source production-ready toolkit implementing modular patterns for Data Analytics workflows."
+  },
+  {
+    "repo_name": "marcus_vance_analyst-sdk-client",
+    "url": "https://github.com/freelancer-portfolio/marcus_vance_analyst-sdk-client",
+    "stars": 63,
+    "primary_language": "Python",
+    "description": "Open source production-ready toolkit implementing modular patterns for Data Analytics workflows."
+  },
+  {
+    "repo_name": "marcus_vance_analyst-demo-app",
+    "url": "https://github.com/freelancer-portfolio/marcus_vance_analyst-demo-app",
+    "stars": 45,
+    "primary_language": "Python",
+    "description": "Open source production-ready toolkit implementing modular patterns for Data Analytics workflows."
+  }
+]

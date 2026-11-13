@@ -1,0 +1,342 @@
+[
+  {
+    "id": "CS-SARA-001",
+    "title": "High-Throughput React & Next.js Analytics Dashboard for Fintech Platform",
+    "client_industry": "Fintech",
+    "skills": [
+      "Prisma",
+      "Terraform",
+      "FastAPI",
+      "GraphQL",
+      "Redis"
+    ],
+    "timeline": "5 weeks",
+    "budget_usd": 4819,
+    "summary": "Designed and delivered High-Throughput React & Next.js Analytics Dashboard for Fintech Platform. Successfully addressed client pain points around performance and reliability. Key metrics: Scaled frontend rendering to 60fps, reduced Lighthouse first contentful paint by 65%, supported 15,000 concurrent websocket connections.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-01-31"
+  },
+  {
+    "id": "CS-SARA-002",
+    "title": "Real-Time Multi-Tenant WebSockets Notification Service in Node.js & Redis",
+    "client_industry": "HealthTech",
+    "skills": [
+      "REST APIs",
+      "FastAPI",
+      "Jest",
+      "WebSockets",
+      "Node.js"
+    ],
+    "timeline": "2 weeks",
+    "budget_usd": 3524,
+    "summary": "Designed and delivered Real-Time Multi-Tenant WebSockets Notification Service in Node.js & Redis. Successfully addressed client pain points around performance and reliability. Key metrics: Scaled frontend rendering to 60fps, reduced Lighthouse first contentful paint by 65%, supported 15,000 concurrent websocket connections.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-03-02"
+  },
+  {
+    "id": "CS-SARA-003",
+    "title": "Microservices REST API Architecture with FastAPI and PostgreSQL for E-Commerce",
+    "client_industry": "E-Commerce",
+    "skills": [
+      "Jest",
+      "Redis",
+      "React",
+      "Python",
+      "Prisma"
+    ],
+    "timeline": "3 weeks",
+    "budget_usd": 2831,
+    "summary": "Designed and delivered Microservices REST API Architecture with FastAPI and PostgreSQL for E-Commerce. Successfully addressed client pain points around performance and reliability. Key metrics: Scaled frontend rendering to 60fps, reduced Lighthouse first contentful paint by 65%, supported 15,000 concurrent websocket connections.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-04-01"
+  },
+  {
+    "id": "CS-SARA-004",
+    "title": "Design System Migration to TailwindCSS and Component Library for EdTech",
+    "client_industry": "EdTech",
+    "skills": [
+      "TailwindCSS",
+      "TypeScript",
+      "JavaScript",
+      "Python",
+      "WebSockets"
+    ],
+    "timeline": "6 weeks",
+    "budget_usd": 1796,
+    "summary": "Designed and delivered Design System Migration to TailwindCSS and Component Library for EdTech. Successfully addressed client pain points around performance and reliability. Key metrics: Scaled frontend rendering to 60fps, reduced Lighthouse first contentful paint by 65%, supported 15,000 concurrent websocket connections.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-05-01"
+  },
+  {
+    "id": "CS-SARA-005",
+    "title": "End-to-End Automated Testing Infrastructure with Playwright & GitHub Actions",
+    "client_industry": "Logistics",
+    "skills": [
+      "REST APIs",
+      "GraphQL",
+      "FastAPI",
+      "AWS",
+      "WebSockets"
+    ],
+    "timeline": "5 weeks",
+    "budget_usd": 3198,
+    "summary": "Designed and delivered End-to-End Automated Testing Infrastructure with Playwright & GitHub Actions. Successfully addressed client pain points around performance and reliability. Key metrics: Scaled frontend rendering to 60fps, reduced Lighthouse first contentful paint by 65%, supported 15,000 concurrent websocket connections.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-05-31"
+  },
+  {
+    "id": "CS-SARA-006",
+    "title": "GraphQL Federation Layer for Unified SaaS Enterprise Service Communication",
+    "client_industry": "SaaS Enterprise",
+    "skills": [
+      "TailwindCSS",
+      "TypeScript",
+      "Next.js",
+      "GraphQL",
+      "Python"
+    ],
+    "timeline": "3 weeks",
+    "budget_usd": 5443,
+    "summary": "Designed and delivered GraphQL Federation Layer for Unified SaaS Enterprise Service Communication. Successfully addressed client pain points around performance and reliability. Key metrics: Scaled frontend rendering to 60fps, reduced Lighthouse first contentful paint by 65%, supported 15,000 concurrent websocket connections.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-06-30"
+  },
+  {
+    "id": "CS-SARA-007",
+    "title": "Responsive Mobile-First Customer Portal with Next.js App Router for Cybersecurity",
+    "client_industry": "Cybersecurity",
+    "skills": [
+      "REST APIs",
+      "JavaScript",
+      "Playwright",
+      "Python",
+      "Next.js"
+    ],
+    "timeline": "5 weeks",
+    "budget_usd": 2292,
+    "summary": "Designed and delivered Responsive Mobile-First Customer Portal with Next.js App Router for Cybersecurity. Successfully addressed client pain points around performance and reliability. Key metrics: Scaled frontend rendering to 60fps, reduced Lighthouse first contentful paint by 65%, supported 15,000 concurrent websocket connections.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-07-30"
+  },
+  {
+    "id": "CS-SARA-008",
+    "title": "Stripe Payment Processing & Subscription Management Integration for LegalTech",
+    "client_industry": "LegalTech",
+    "skills": [
+      "REST APIs",
+      "Jest",
+      "Playwright",
+      "Redis",
+      "Terraform"
+    ],
+    "timeline": "6 weeks",
+    "budget_usd": 5335,
+    "summary": "Designed and delivered Stripe Payment Processing & Subscription Management Integration for LegalTech. Successfully addressed client pain points around performance and reliability. Key metrics: Scaled frontend rendering to 60fps, reduced Lighthouse first contentful paint by 65%, supported 15,000 concurrent websocket connections.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-08-29"
+  },
+  {
+    "id": "CS-SARA-009",
+    "title": "Role-Based Access Control (RBAC) and OAuth2 Authentication Service",
+    "client_industry": "Real Estate",
+    "skills": [
+      "GraphQL",
+      "Playwright",
+      "REST APIs",
+      "Node.js",
+      "WebSockets"
+    ],
+    "timeline": "5 weeks",
+    "budget_usd": 3323,
+    "summary": "Designed and delivered Role-Based Access Control (RBAC) and OAuth2 Authentication Service. Successfully addressed client pain points around performance and reliability. Key metrics: Scaled frontend rendering to 60fps, reduced Lighthouse first contentful paint by 65%, supported 15,000 concurrent websocket connections.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-09-28"
+  },
+  {
+    "id": "CS-SARA-010",
+    "title": "High-Concurrency Redis Caching & Database Query Optimization for Media",
+    "client_industry": "Media",
+    "skills": [
+      "Python",
+      "PostgreSQL",
+      "Jest",
+      "WebSockets",
+      "Terraform"
+    ],
+    "timeline": "4 weeks",
+    "budget_usd": 4803,
+    "summary": "Designed and delivered High-Concurrency Redis Caching & Database Query Optimization for Media. Successfully addressed client pain points around performance and reliability. Key metrics: Scaled frontend rendering to 60fps, reduced Lighthouse first contentful paint by 65%, supported 15,000 concurrent websocket connections.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-10-28"
+  },
+  {
+    "id": "CS-SARA-011",
+    "title": "High-Throughput React & Next.js Analytics Dashboard for Fintech Platform",
+    "client_industry": "Fintech",
+    "skills": [
+      "React",
+      "Prisma",
+      "Python",
+      "PostgreSQL",
+      "Redis"
+    ],
+    "timeline": "4 weeks",
+    "budget_usd": 5624,
+    "summary": "Designed and delivered High-Throughput React & Next.js Analytics Dashboard for Fintech Platform. Successfully addressed client pain points around performance and reliability. Key metrics: Scaled frontend rendering to 60fps, reduced Lighthouse first contentful paint by 65%, supported 15,000 concurrent websocket connections.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-11-27"
+  },
+  {
+    "id": "CS-SARA-012",
+    "title": "Real-Time Multi-Tenant WebSockets Notification Service in Node.js & Redis",
+    "client_industry": "HealthTech",
+    "skills": [
+      "React",
+      "TailwindCSS",
+      "CI/CD",
+      "Python",
+      "AWS"
+    ],
+    "timeline": "3 weeks",
+    "budget_usd": 2952,
+    "summary": "Designed and delivered Real-Time Multi-Tenant WebSockets Notification Service in Node.js & Redis. Successfully addressed client pain points around performance and reliability. Key metrics: Scaled frontend rendering to 60fps, reduced Lighthouse first contentful paint by 65%, supported 15,000 concurrent websocket connections.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2025-12-27"
+  },
+  {
+    "id": "CS-SARA-013",
+    "title": "Microservices REST API Architecture with FastAPI and PostgreSQL for E-Commerce",
+    "client_industry": "E-Commerce",
+    "skills": [
+      "React",
+      "GraphQL",
+      "CI/CD",
+      "Redis",
+      "REST APIs"
+    ],
+    "timeline": "5 weeks",
+    "budget_usd": 1710,
+    "summary": "Designed and delivered Microservices REST API Architecture with FastAPI and PostgreSQL for E-Commerce. Successfully addressed client pain points around performance and reliability. Key metrics: Scaled frontend rendering to 60fps, reduced Lighthouse first contentful paint by 65%, supported 15,000 concurrent websocket connections.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2026-01-26"
+  },
+  {
+    "id": "CS-SARA-014",
+    "title": "Design System Migration to TailwindCSS and Component Library for EdTech",
+    "client_industry": "EdTech",
+    "skills": [
+      "FastAPI",
+      "GraphQL",
+      "AWS",
+      "TypeScript",
+      "Playwright"
+    ],
+    "timeline": "5 weeks",
+    "budget_usd": 1248,
+    "summary": "Designed and delivered Design System Migration to TailwindCSS and Component Library for EdTech. Successfully addressed client pain points around performance and reliability. Key metrics: Scaled frontend rendering to 60fps, reduced Lighthouse first contentful paint by 65%, supported 15,000 concurrent websocket connections.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2026-02-25"
+  },
+  {
+    "id": "CS-SARA-015",
+    "title": "End-to-End Automated Testing Infrastructure with Playwright & GitHub Actions",
+    "client_industry": "Logistics",
+    "skills": [
+      "Docker",
+      "Prisma",
+      "AWS",
+      "GraphQL",
+      "Python"
+    ],
+    "timeline": "5 weeks",
+    "budget_usd": 2997,
+    "summary": "Designed and delivered End-to-End Automated Testing Infrastructure with Playwright & GitHub Actions. Successfully addressed client pain points around performance and reliability. Key metrics: Scaled frontend rendering to 60fps, reduced Lighthouse first contentful paint by 65%, supported 15,000 concurrent websocket connections.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2026-03-27"
+  },
+  {
+    "id": "CS-SARA-016",
+    "title": "GraphQL Federation Layer for Unified SaaS Enterprise Service Communication",
+    "client_industry": "SaaS Enterprise",
+    "skills": [
+      "PostgreSQL",
+      "GraphQL",
+      "WebSockets",
+      "TypeScript",
+      "AWS"
+    ],
+    "timeline": "4 weeks",
+    "budget_usd": 4512,
+    "summary": "Designed and delivered GraphQL Federation Layer for Unified SaaS Enterprise Service Communication. Successfully addressed client pain points around performance and reliability. Key metrics: Scaled frontend rendering to 60fps, reduced Lighthouse first contentful paint by 65%, supported 15,000 concurrent websocket connections.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2026-04-26"
+  },
+  {
+    "id": "CS-SARA-017",
+    "title": "Responsive Mobile-First Customer Portal with Next.js App Router for Cybersecurity",
+    "client_industry": "Cybersecurity",
+    "skills": [
+      "Node.js",
+      "REST APIs",
+      "TailwindCSS",
+      "TypeScript",
+      "AWS"
+    ],
+    "timeline": "6 weeks",
+    "budget_usd": 5823,
+    "summary": "Designed and delivered Responsive Mobile-First Customer Portal with Next.js App Router for Cybersecurity. Successfully addressed client pain points around performance and reliability. Key metrics: Scaled frontend rendering to 60fps, reduced Lighthouse first contentful paint by 65%, supported 15,000 concurrent websocket connections.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "CS-SARA-018",
+    "title": "Stripe Payment Processing & Subscription Management Integration for LegalTech",
+    "client_industry": "LegalTech",
+    "skills": [
+      "TypeScript",
+      "React",
+      "GraphQL",
+      "TailwindCSS",
+      "REST APIs"
+    ],
+    "timeline": "3 weeks",
+    "budget_usd": 1611,
+    "summary": "Designed and delivered Stripe Payment Processing & Subscription Management Integration for LegalTech. Successfully addressed client pain points around performance and reliability. Key metrics: Scaled frontend rendering to 60fps, reduced Lighthouse first contentful paint by 65%, supported 15,000 concurrent websocket connections.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2026-06-25"
+  },
+  {
+    "id": "CS-SARA-019",
+    "title": "Role-Based Access Control (RBAC) and OAuth2 Authentication Service",
+    "client_industry": "Real Estate",
+    "skills": [
+      "PostgreSQL",
+      "AWS",
+      "Redis",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "timeline": "4 weeks",
+    "budget_usd": 3964,
+    "summary": "Designed and delivered Role-Based Access Control (RBAC) and OAuth2 Authentication Service. Successfully addressed client pain points around performance and reliability. Key metrics: Scaled frontend rendering to 60fps, reduced Lighthouse first contentful paint by 65%, supported 15,000 concurrent websocket connections.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2026-07-25"
+  },
+  {
+    "id": "CS-SARA-020",
+    "title": "High-Concurrency Redis Caching & Database Query Optimization for Media",
+    "client_industry": "Media",
+    "skills": [
+      "AWS",
+      "PostgreSQL",
+      "GraphQL",
+      "CI/CD",
+      "React"
+    ],
+    "timeline": "5 weeks",
+    "budget_usd": 1358,
+    "summary": "Designed and delivered High-Concurrency Redis Caching & Database Query Optimization for Media. Successfully addressed client pain points around performance and reliability. Key metrics: Scaled frontend rendering to 60fps, reduced Lighthouse first contentful paint by 65%, supported 15,000 concurrent websocket connections.",
+    "verified_outcome": "Completed on schedule, 5/5 client review",
+    "date": "2026-08-24"
+  }
+]

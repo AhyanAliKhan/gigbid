@@ -1,0 +1,18 @@
+{
+  "proposal_id": "PROP-MARC-101",
+  "job_title": "Snowflake & dbt Enterprise Data Warehouse Modeling for Fintech",
+  "bid_amount": 739.15,
+  "outcome": "ignored",
+  "evidence_cited": [
+    "CS-MARC-001"
+  ],
+  "skills": [
+    "Python",
+    "Pandas",
+    "Statistical Testing",
+    "dbt",
+    "ETL Pipelines"
+  ],
+  "submitted_at": "2025-07-10",
+  "cover_letter": "Hi there,\n\nI noticed you are looking for an experienced Data Analytics specialist for Snowflake & dbt Enterprise Data Warehouse Modeling for Fintech. In a previous engagement with a Fintech client (CS-MARC-001), I built a similar solution where we Designed and delivered Snowflake & dbt Enterprise Data Warehouse Modeling for Fintech. Successfully addressed client pain points around performance and reliability. Key metrics: Saved 14 hours of manual weekly reporting, cut query execution runtime by 73%, delivered 99.8% data accuracy verified by external audit.. My approach is to deliver clean, reproducible code with comprehensive test suites. I can complete your deliverables within the agreed budget and timeline.\n\nBest regards,\nMarcus Vance"
+}
