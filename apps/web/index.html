@@ -539,7 +539,7 @@
       <span class="pill pill-connects" id="connects-pill">⚡ 92 Connects</span>
       <span class="pill pill-endpoint" onclick="configureBackendUrl()" title="Click to edit backend URL">
         <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/></svg>
-        <span id="endpoint-label">Render / Local: 8000</span>
+        <span id="endpoint-label">Railway: gigbid-production.up.railway.app</span>
       </span>
     </div>
   </header>
@@ -1154,9 +1154,9 @@ Alex Chen</textarea>
         <div class="card">
           <h3 class="card-title" style="margin-bottom: 0.5rem;">Backend Endpoint Configuration</h3>
           <p style="font-size: 0.8rem; color: var(--text-secondary); margin-bottom: 0.85rem;">
-            Configure the FastAPI backend URL (Local or Render Cloud Deployment):
+            Configure the FastAPI backend URL (Railway Cloud Deployment or Local):
           </p>
-          <input type="text" id="api-endpoint-input" value="http://localhost:8000" style="margin-bottom: 0.75rem;" />
+          <input type="text" id="api-endpoint-input" value="https://gigbid-production.up.railway.app" style="margin-bottom: 0.75rem;" />
           <button class="btn btn-primary" onclick="saveBackendEndpoint()">Test & Save Backend URL</button>
         </div>
 

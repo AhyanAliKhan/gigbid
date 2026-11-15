@@ -6,7 +6,7 @@ Built with the official MCP Python SDK (MCPServer).
 
 import sys
 from typing import List, Dict, Any, Optional
-from mcp.server.mcpserver import MCPServer
+from mcp_servers.compat import MCPServer
 from mcp_servers.portfolio.tools import search_evidence, get_case_study, list_skills
 from mcp_servers.portfolio.resources import read_case_resource, read_proposal_resource
 from mcp_servers.portfolio.prompts import prompt_answer_screening_question, prompt_summarize_proof_points

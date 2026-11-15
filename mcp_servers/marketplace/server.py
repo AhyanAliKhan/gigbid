@@ -9,7 +9,7 @@ import json
 import time
 from typing import List, Dict, Any, Optional
 from pydantic import BaseModel, Field
-from mcp.server.mcpserver import MCPServer
+from mcp_servers.compat import MCPServer
 from agent.marketplace_port import get_marketplace_port
 
 server = MCPServer("marketplace-mcp-server")
