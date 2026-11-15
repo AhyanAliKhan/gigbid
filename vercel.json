@@ -1,16 +1,9 @@
 {
-  "version": 2,
   "cleanUrls": true,
-  "builds": [
+  "rewrites": [
     {
-      "src": "apps/web/index.html",
-      "use": "@vercel/static"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/apps/web/index.html"
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
   ]
 }
